@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+	-ms-user-select: none;
+	-ms-content-zooming: none;
+	touch-action: pan-y;
+	-webkit-user-select:none;
+	-webkit-content-zooming:none;
+	-webkit-touch-action:pan-y;
+}
+
+html{-ms-touch-action:manipulation;touch-action:manipulation;}

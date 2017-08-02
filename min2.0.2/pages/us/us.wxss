@@ -1,0 +1,254 @@
+/**introduce.wxss**/
+@import "/utils/common.wxss";
+
+/*菜单*/
+
+.introMenu {
+  width: 100%;
+  height: 100rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  background-color: #000;
+  position: fixed;
+  top: 0;
+  z-index: 9999;
+}
+
+.introMenuList {
+  min-width: 160rpx;
+  max-width: 180rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  font-size: 28rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+.on {
+  color: #ff0;
+  border-bottom: 2rpx solid #ff0;
+}
+
+/*菜单...*/
+
+/*intro*/
+
+.introBox {
+  width: 100%;
+  height: 100%;
+  margin-top: 100rpx;
+}
+
+.intro {
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.logo {
+  width: 100%;
+  height: 320rpx;
+}
+
+.logo image {
+  width: 100%;
+  height: 320rpx;
+}
+
+/*公司介绍*/
+
+.aboutUs {
+  width: 100%;
+  margin: 40rpx auto 40rpx auto;
+}
+
+.aboutUs text {
+  width: 730rpx;
+  margin: 10rpx auto;
+  display: block;
+  font-size: 26rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  line-height: 46rpx;
+  text-indent: 2em;
+}
+
+.aboutUsImg {
+  width: 100%;
+  height: 1000rpx;
+  display: block;
+  margin: 20rpx auto 20rpx auto;
+}
+
+/*公司介绍...*/
+
+/*intro...*/
+
+/* 公司地址 */
+
+.companyAddress {
+  width: 100%;
+  height: 420rpx;
+  margin: 30rpx auto 30rpx auto;
+}
+
+.companyAddress text {
+  width: 730rpx;
+  height: 60rpx;
+  display: block;
+  line-height: 100rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  font-size: 24rpx;
+  margin: 0rpx auto 30rpx auto;
+}
+
+.companyAddress image {
+  width: 730rpx;
+  height: 360rpx;
+  display: block;
+  margin: 00rpx auto 00rpx auto;
+  border: 2rpx solid #888;
+  box-sizing: border-box;
+}
+
+/*call*/
+
+.call {
+  width: 730rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  margin: 60rpx auto 60rpx auto;
+  background: #000;
+  color: #ff0;
+  font: 24rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  text-align: center;
+}
+
+/* 公司地址... */
+
+/*团队介绍*/
+
+.introImg1 {
+  width: 100%;
+  height: 414rpx;
+  display: block;
+  margin-bottom: 20rpx;
+}
+
+/*设计师展示*/
+
+.indexStylist {
+  width: 100%;
+}
+
+.recommend {
+  width: 100%;
+  height: 104rpx;
+  display: block;
+}
+
+.indexStylistItem {
+  width: 100%;
+  height: 204rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+}
+
+.indexStylistImg {
+  width: 188rpx;
+  height: 188rpx;
+  display: block;
+  margin-left: 12rpx;
+}
+
+.indexStylistIntro {
+  width: 514rpx;
+  height: 188rpx;
+  margin-left: 24rpx;
+  margin-right: 12rpx;
+}
+
+.indexStylistIntroName {
+  width: 514rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  display: block;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  font-size: 28rpx;
+}
+
+.indexStylistIntroAbility {
+  width: 514rpx;
+  height: 88rpx;
+  line-height: 88rpx;
+  display: block;
+  color: #666;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  font-size: 28rpx;
+}
+
+/*设计师展示...*/
+
+/*团队介绍...*/
+
+/*天方叶谈*/
+
+.introImg3 {
+  width: 100%;
+  height: 1240rpx;
+  display: block;
+}
+
+.introBack {
+  margin: 30rpx auto 0 auto;
+}
+
+.introBack .introBackInput {
+  width: 90%;
+  height: 60rpx;
+  line-height: 60rpx;
+  border: 2rpx solid #e9e9e9;
+  color: #757575;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  font: 24rpx;
+  margin: 10rpx auto 0 auto;
+  padding: 0rpx 0rpx 0rpx 10rpx;
+}
+
+.introBackFrom {
+  color: #757575;
+}
+
+.introBack .introBackArea {
+  width: 90%;
+  height: 180rpx;
+  line-height: 24rpx;
+  border: 2rpx solid #e9e9e9;
+  color: #757575;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  font: 24rpx;
+  margin: 10rpx auto 0 auto;
+  padding: 10rpx 0rpx 0rpx 10rpx;
+}
+
+.introBack button {
+  width: 90%;
+  height: 60rpx;
+  line-height: 60rpx;
+  text-align: center;
+  background: #000;
+  color: #ff0;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  font: 24rpx;
+  margin: 30rpx auto 0 auto;
+}
+
+/*天方叶谈...*/

@@ -1,0 +1,32 @@
+<!--pulish.wxml-->
+<!--留言板-->
+<view class="pulish">
+  <!--输入-->
+  <view class="pulishIpt">
+    <input type="text" maxlength="200" placeholder="我也来说几句..." placeholder-class="pulishHolder" value="{{pulishIptVal}}" bindinput="pulishIptChg" />
+    <view class="pulishIptImg" bindtap="pulishImgChg">
+      <image src="{{pulishIptImg}}" background-size="cover"></image>
+      <image src="http://www.netjc.cn/xcx/case/del.jpg" class="pulishImgDel" catchtap="pulishImgDel" hidden="{{pulishImgDel}}" background-size="100% 100%"></image>
+    </view>
+    <button type="default" bindtap="pulishAddMsg">发布</button>
+  </view>
+  <!--输入...-->
+  <!--输出-->
+  <view class="pulishOut">
+    <view class="pulishOutNum">
+      <text>最近评论（{{num}}）</text>
+    </view>
+    <view class="pulishOutMess">
+      <image wx:if="{{msgData.length==0}}" class="pulishMessNone" src="http://www.netjc.cn/xcx/case/none.jpg" background-size="cover"></image>
+      <!-- 内容 -->
+      <view class="pulishOutList" wx:for="{{msgData}}" wx:key="{{index}}">
+        <view class="pulishListContent">
+          <textarea>{{item.msg}}</textarea>
+          <image src="{{item.img}}" background-size="contain"></image>
+        </view>
+      </view>
+      <!-- 内容... -->
+    </view>
+  </view>
+  <!--输出...-->
+</view>

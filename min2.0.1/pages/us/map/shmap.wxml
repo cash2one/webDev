@@ -1,0 +1,5 @@
+<!--map.wxml-->
+<!-- 地图 -->
+<map id="shmap" longitude="{{longitude2}}" latitude="{{latitude2}}" scale="{{scale}}" controls="{{controls}}" markers="{{markers}}" polyline="{{polyline}}" bindcontroltap="controltap" bindmarkertap="markertap" bindregionchange="regionchange" bindtap="maptap" show-location></map>
+<text class="mapTxt">上海市闵行区中春路7615号</text>
+<!-- 地图... -->

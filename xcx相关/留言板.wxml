@@ -1,0 +1,19 @@
+ <!-- head -->
+        <view class="publishListHead">
+          <!-- HeadUser -->
+          <view class="publishHeadUser">
+            <image src="{{publishHeadUserImg}}" background-size="cover"></image>
+            <view class="publishHeadUserInfo">
+              <text class="publishHeadId">123{{publishHeadId}}</text>
+              <text class="publishHeadDate">123{{publishHeadDate}}</text>
+            </view>
+          </view>
+          <!-- HeadUser... -->
+          <!-- HeadReply -->
+          <view class="publishHeadReply">
+            <image src="http://www.netjc.cn/xcximgs/case/reply.jpg" background-size="cover"></image>
+            <text>»Ø¸´</text>
+          </view>
+          <!-- HeadReply... -->
+        </view>
+        <!-- head... -->

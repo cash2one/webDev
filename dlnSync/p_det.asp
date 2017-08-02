@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>商品详情</title>
+	<link rel="stylesheet" href="css/common.css"/>
+	<link rel="stylesheet" media="screen and (min-width:1024px)" href="css/pc.css"/>
+	<link rel="stylesheet" media="screen and (min-width:768px) and (max-width:1023px)" href="css/ipad.css"/>
+	<link rel="stylesheet" media="screen and (max-width:767px)" href="css/phone.css"/>
+</head>
+<body>
+	<!--商品详情-->
+   	<div id="p_det">
+   		<b onclick="window.history.back(-1);">X</b>
+   		<header>
+   			<div>
+   				<span>厨房系列</span>
+   				<h1>COMET</h1>
+   				<span>高端橱柜定制</span>
+   			</div>
+   			<p>该系列32/33的裸砖的特殊部位。它在世界的每一个系列的独特景致被刷新首页。下页仅在帧的装修定制。它在相同的运动指导和PC同样在智能手机的发展。</p>
+   		</header>
+   		<aside id="p_det_lis">
+   			<ul>
+   				<li><img src="imgs/p_det_1.png"/></li>
+   				<li><img src="imgs/p_det_1.png"/></li>
+   				<li><img src="imgs/p_det_1.png"/></li>
+   				<li><img src="imgs/p_det_1.png"/></li>
+   			</ul>
+   		</aside>
+   	</div>
+   	<!--商品详情...-->
+</body>
+</html>

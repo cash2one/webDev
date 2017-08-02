@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>header</title>
+	<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/css/common.css"/>
+	<link rel="stylesheet" media="screen and (min-width:1024px)" href="{dede:global.cfg_templets_skin/}/css/pc.css"/>
+	<link rel="stylesheet" media="screen and (min-width:768px) and (max-width:1023px)" href="{dede:global.cfg_templets_skin/}/css/ipad.css"/>
+	<link rel="stylesheet" media="screen and (max-width:767px)" href="{dede:global.cfg_templets_skin/}/css/phone.css"/>
+	<script src="{dede:global.cfg_templets_skin/}/js/common.js"></script>
+	<script type="text/javascript">
+	function header(){
+			var oO=document.getElementById('open');
+			var oH=document.getElementById('head');
+			var oM=document.getElementById('menu');
+			var oS=document.getElementById('seach');
+			var aLi=oM.getElementsByTagName('li');
+			var oFlag=true;
+			oO.style.background='url({dede:global.cfg_templets_skin/}/imgs/menu.svg)  no-repeat';
+			oO.onclick=function(){
+				if(oFlag){
+					oO.style.background='url({dede:global.cfg_templets_skin/}/{dede:global.cfg_templets_skin/}/imgs/close.svg) no-repeat';
+					move(oM,{height:aLi[0].offsetHeight*aLi.length},{time:300,type:'linear'});
+					move(oH,{marginBottom:aLi[0].offsetHeight*aLi.length},{time:300,type:'linear'});
+				}else{
+					oO.style.background='url({dede:global.cfg_templets_skin/}/imgs/menu.svg) no-repeat';
+					move(oM,{height:0},{time:300,style:'linear'});
+					move(oH,{marginBottom:0},{time:300,type:'linear'});
+				}
+				oFlag=!oFlag;
+			};
+		}
+		addEventListener('DOMContentLoaded',function(){
+			header();
+		},false);
+		//header
+		
+	</script>
+</head>
+<body>
+	<!--头部-->
+	<div class="head" id="head">
+		<a href="{dede:global.cfg_cmsurl/}" class="head_img"></a>
+		<ul class="menu" id="menu">
+			{dede:channel type='top' row='10' currentstyle="
+          <li class='hover'><a href='~typelink~' ~rel~>~typename~</a></li>
+          "}
+          <li><a href='[field:typeurl/]' [field:rel/]>[field:typename/]</a></li>
+          {/dede:channel}
+			<li class="search" id="seach">
+				<div class="ipt">
+					<form method="get" class="form">
+						<input type="text" name="search" class="sear" placeholder="请输入商品名称"/>
+						<div style="background-image:url({dede:global.cfg_templets_skin/}/imgs/search.svg);"></div>
+					</form>
+				</div>
+			</li>
+		</ul>
+		<div class="open" id="open"></div>
+	</div>
+	<!--头部...-->
+</body>
+</html>

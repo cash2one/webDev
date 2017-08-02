@@ -1,0 +1,57 @@
+<!--boshiwu.wxml-->
+<text class="head">【绿野仙踪】博士屋—VI设计</text>
+<text class="date">2017/06/13</text>
+<view class="Poem">
+  <text>我说你是人间的四月天；</text>
+  <text>笑响点亮了四面风；</text>
+  <text>轻灵在春的光艳中交舞着变。</text>
+  <text>你是四月早天里的云烟，</text>
+  <text>黄昏吹着风的软，</text>
+  <text>星子在无意中闪，</text>
+  <text>细雨点洒在花前。</text>
+  <text style="text-align:right;">——林徽因</text>
+</view>
+<view class="Wrap">
+  <image src="http://www.netjc.cn/xcx/index/xiaowei.jpg" background-size="contain"></image>
+  <view class="WrapP">
+    <text>设计理念</text>
+    <text>考虑到博士屋所经营范围在松木、纯实木系列家居定制。主要以成人家具、儿童家具（学校、单位以及宿舍家具）为主。所以在VI</text>
+  </view>
+</view>
+<text class="Para" style="text-indent:0;">设计上以“简约”、“气质”、“环保”、“自然”为侧重点。logo设计应保持精致、端庄、趣味、形象字体，与产品特性拥有契合度，更形象的传达出品牌行业特性。颜色挑选黑白、绿色等环保色系构建整体。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bs/bs1.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bs/bs2.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bs/bs3.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bs/bs4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bs/bs5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bs/bs6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bs/bs7.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bs/bs8.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bs/bs9.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bs/bs10.jpg" background-size="cover"></image>
+</view>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+<!-- <include src="/utils/pulish.wxml" /> -->
+<!-- 留言板... -->

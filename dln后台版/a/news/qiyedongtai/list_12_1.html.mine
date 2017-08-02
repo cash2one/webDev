@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>新闻动态  /  企业动态_德洛尼</title>
+	<script>
+		addEventListener('DOMContentLoaded',function(){
+			tab('option','box');
+		},false);
+	</script>
+</head>
+<body id="news">
+	<!--头部-->
+	<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>header</title>
+	<link rel="stylesheet" href="/deluoni/templets/default/css/common.css"/>
+	<link rel="stylesheet" media="screen and (min-width:1024px)" href="/deluoni/templets/default/css/pc.css"/>
+	<link rel="stylesheet" media="screen and (min-width:768px) and (max-width:1023px)" href="/deluoni/templets/default/css/ipad.css"/>
+	<link rel="stylesheet" media="screen and (max-width:767px)" href="/deluoni/templets/default/css/phone.css"/>
+	<script src="/deluoni/templets/default/js/common.js"></script>
+	<script type="text/javascript">
+		addEventListener('DOMContentLoaded',function(){
+			header();
+		},false);
+	</script>
+</head>
+<body>
+	<!--头部-->
+	<div class="head" id="head">
+		<a href="/deluoni" class="head_img"></a>
+		<ul class="menu" id="menu">
+			
+          <li><a href='/deluoni/a/link/'  rel='dropmenu1'>关于我们</a></li>
+          <li class='hover'><a href='/deluoni/a/news/'  rel='dropmenu6'>新闻动态</a></li>
+          <li><a href='/deluoni/a/product/'  rel='dropmenu7'>产品系列</a></li>
+          
+          <li><a href='/deluoni/a/case/'  rel='dropmenu8'>家装案例</a></li>
+          
+          <li><a href='/deluoni/a/join/' >招商加盟</a></li>
+          
+          <li><a href='/deluoni/a/shop/' >实体店</a></li>
+          
+          <li><a href='/deluoni/a.call/' >联系我们</a></li>
+          
+			<li class="search" id="seach">
+				<div class="ipt">
+					<form method="get" class="form">
+						<input type="text" name="search" class="sear" placeholder="请输入商品名称"/>
+						<div style="background-image:url(/deluoni/templets/default/imgs/search.svg);"></div>
+					</form>
+				</div>
+			</li>
+		</ul>
+		<div class="open" id="open"></div>
+	</div>
+	<!--头部...-->
+</body>
+</html>
+	<!--头部...-->
+	<!--大背景-->
+	<div class="bg_img" style="background-image:url(/deluoni/templets/default/imgs/new_bg.png)"></div>
+	<!--菜单-->
+	<div class="option" id="option">
+		<span class="active">企业动态</span>
+		<span>促销信息</span>
+	</div>
+	<!--企业动态-->
+	<section id="box" class="box">
+		<div class="n_state" id="state">
+			<div class="n_tab">
+						
+			</div>
+		</div>
+		<!--企业动态...-->
+	</section>
+	    <!--侧边栏-->
+		<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>侧边栏</title>
+		<link rel="stylesheet"  href="/deluoni/templets/default/css/common.css"/>
+	</head>
+	<body>
+		<div class="sidebar">
+			<a href="javascript:;" class="sidebar_one"><img src="/deluoni/templets/default/imgs/lc.png"/></a>
+			<a href="javascript:;" class="sidebar_two"><img src="/deluoni/templets/default/imgs/dw.png"/></a>
+		</div>
+	</body>
+</html>
+
+		<!--侧边栏...-->
+		<!--footer-->
+		<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>footer</title>
+	<link rel="stylesheet" href="/deluoni/templets/default/css/common.css"/>
+</head>
+<body>
+	<div class="footer">
+		<div class="footer_wrap">
+			<ul>
+				
+          	<li><a href='/deluoni/a/link/'  rel='dropmenu1'><span>关于我们</span></a></li>
+          		
+          	<li><a href='/deluoni/a/news/'  rel='dropmenu6'><span>新闻动态</span></a></li>
+          		
+          	<li><a href='/deluoni/a/product/'  rel='dropmenu7'><span>产品系列</span></a></li>
+          		
+          	<li><a href='/deluoni/a/case/'  rel='dropmenu8'><span>家装案例</span></a></li>
+          		
+          	<li><a href='/deluoni/a/join/' ><span>招商加盟</span></a></li>
+          		
+          	<li><a href='/deluoni/a/shop/' ><span>实体店</span></a></li>
+          		
+          	<li><a href='/deluoni/a.call/' ><span>联系我们</span></a></li>
+          		
+			</ul>
+			<div class="footer_bottom">
+				<h2>招商加盟热线 4006-0303-99</h2>
+				<p>Copyright &copy; 德洛尼家居, Delonne home AlRights Reserved.</p>
+				<img src="/deluoni/templets/default/imgs/weixin.png" />
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+		<!--footer...-->
+</body>
+</html>

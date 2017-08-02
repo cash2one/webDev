@@ -1,0 +1,2 @@
+<?php exit('dedecms');?>
+a:2:{s:4:"data";a:1:{s:5:"reval";s:318:"&lt;!-- 700x90普通-已设置 开始 --&gt;&lt;script type=&quot;text/javascript&quot;&gt;var _mda_place_id =&quot;593649bbbd82d&quot;;&lt;/script&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;http://place.ssp.desdev.cn/pageplace/show.js&quot;&gt;&lt;/script&gt;&lt;!-- 700x90普通-已设置 结束 --&gt;";}s:7:"timeout";i:1498510552;}

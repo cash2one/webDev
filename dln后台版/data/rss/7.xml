@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>产品系列</title>
+<link>http://localhost:8080/deluoni/a/product/</link>
+<description>产品系列</description>
+<language>zh-cn</language>
+<generator><![CDATA[Copyright &amp;copy; 德洛尼家居, Delonne home AlRights Reserved.]]></generator>
+<webmaster>desdev@vip.qq.com</webmaster>
+<item>
+    <title><![CDATA[DedeAMPZ-PHP环境整合套件]]></title>
+    <link>http://localhost:8080/deluoni/a/product/2010/0407/80.html</link>
+    <description><![CDATA[DedeAMPZ 是直接整合PHP + Apache + MySql 的服务器环境管理软件，操作十分傻瓜化，适合初中级水平的站长使用。 主要具有如下特点： 1、支持php4、php5、MySql4、MySql5、Apache2.2、Zend Optimizer-3.3.0；(完整版) 2、安装使用十分简单，并支持在php4与php]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>产品系列</category>
+    <author>织梦官方</author>
+    <comments>织梦官方</comments>
+</item>
+<item>
+    <title><![CDATA[DedeCMS V5.5正式版正式发布(Build-0912)]]></title>
+    <link>http://localhost:8080/deluoni/a/product/2010/0407/79.html</link>
+    <description><![CDATA[DedeCMS V5.5增强或修正功能列表 一、已经修正的BUG： 1、添加后台系统管理员账号，无法删除会员列表的账号； 2、这篇文档需要注册会员才能访问，你目前是：注册会员(提示文字不正确)； 3、高级搜索选择发布时间，搜索出错； 4、会员中心发布完内容后点击继]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>产品系列</category>
+    <author>织梦团队</author>
+    <comments>织梦官方</comments>
+</item>
+<item>
+    <title><![CDATA[DedeCMS V5.3.1正式版免费下载]]></title>
+    <link>http://localhost:8080/deluoni/a/product/2010/0407/78.html</link>
+    <description><![CDATA[安装包最后更新时间： 2009-01-14 主程序更新为：5.3.1 版本 DedeCMS V5.3是织梦组建团队后推出的又一力作，本次发布的新版本，延续了以往的简单、易用、高效，并且在这一版本中进一步加强了模块的概念，是站长建站首选利器，通过不同的模型组合，可组建出地]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>产品系列</category>
+    <author>织梦官方</author>
+    <comments>织梦官方</comments>
+</item>
+<item>
+    <title><![CDATA[DedeCmsV5.1FreeSP1正式版发布]]></title>
+    <link>http://localhost:8080/deluoni/a/product/2010/0407/77.html</link>
+    <description><![CDATA[DedeCms V5.1 免费版 SP1 pw整合版 (如果直接包括论坛的整合版本必须安装在网站根目录！) 修正问题： 1、修正上一版本已知的错误； 2、更新模板标记缓存技术； 3、对局部数据结构进行优化，提升HTML生成性能； 4、安装时提供直接整合PW论坛的选项，让你整合]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>产品系列</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+<item>
+    <title><![CDATA[DedeCms V5.1（GBK/UTF8）版]]></title>
+    <link>http://localhost:8080/deluoni/a/product/2010/0407/76.html</link>
+    <description><![CDATA[DedeCms V5.1 主要改动如下： 1、修正 5.01版发现的所有已知问题； 2、增加百度地图功能、互动模块JS调用等插件； 3、为了使部份商业用户获得更好的体验，V5.1对商业版单独作了如下改进或新增功能： (1) 重新修改了会员中心的界面，使其更大气，更符合WEB2.0]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>产品系列</category>
+    <author>织梦官方</author>
+    <comments>织梦官方</comments>
+</item>
+<item>
+    <title><![CDATA[DeDeCms V5 正式版发布]]></title>
+    <link>http://localhost:8080/deluoni/a/product/2010/0407/75.html</link>
+    <description><![CDATA[DedeCms2007 服务体系与价格 DedeCms2007介绍 DedeCms由2004年到现在，已经经历了五个版本，从DedeCms V2 开始，DedeCms开发了自己的模板引擎，使用XML名字空间风格的模板，对美工制作的直观性提供了极大的便利，从V2.1开始，DedeCms人气急却上升，成为国内]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>产品系列</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+<item>
+    <title><![CDATA[DedeCms OX V4.0版下载]]></title>
+    <link>http://localhost:8080/deluoni/a/product/2010/0407/74.html</link>
+    <description><![CDATA[最新版瑞星杀毒软件会误认本站合法文件sys_data_done.php（数据备份还原程序）为病毒，本地测试前请先关闭瑞星，并且在问题解决前服务器上不要安装瑞星杀毒软件，以免导致你的网站的数据备份还原功能失效。 Dedecms V4.0 版更新内容或新增功能说明 使用许可]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>产品系列</category>
+    <author>织梦团队</author>
+    <comments>织梦官方</comments>
+</item>
+<item>
+    <title><![CDATA[DedeCms V3.1 正式版下载]]></title>
+    <link>http://localhost:8080/deluoni/a/product/2010/0407/73.html</link>
+    <description><![CDATA[一、使用环境 1、 使用许可协议： http://www.dedecms.com/html/zuixindongtai/20070112/65.html 2、 购买DedeCms商业授权或技术支持： http://bbs.dedecms.com/read.php?tid=8791 3、PHP4.x 5.x版本，支持GD，非安全模式（在安全模式中使用可能会有很多难于]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>产品系列</category>
+    <author>织梦官方</author>
+    <comments>织梦官方</comments>
+</item>
+
+</channel>
+</rss>

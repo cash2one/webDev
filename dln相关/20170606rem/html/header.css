@@ -1,0 +1,53 @@
+.content{
+	width:calc(19.2rem - 4rem);
+	height:80px;
+	background:green;
+	margin:0 auto;
+	position:relative;
+}
+.content img{
+	width:231px;
+	height:40px;
+	margin-top:1.5%;
+	/*margin:24px 0 0 5%;*/
+	background:red;
+	display:block;
+	float:left;
+}
+.menu{
+	/*width:calc(100% - 431px);*/
+	/*min-width:498px;*/
+	text-align:center;
+	height:80px;
+	background-color:red;
+	display:block;
+	float:left;
+	position:absolute;
+	top:0;
+	right:200px;
+	/*margin-left:10%;*/
+}
+.menu li{
+	float:left;
+	width:auto;
+	height:80px;
+	/*width:48px;*/
+	line-height:80px;
+	display:block;
+	/*margin-left:4%;*/
+} 
+.menu li a{
+	font-size:14px;
+	padding:0 14px;
+}
+.search{
+	width:200px;
+	height:80px;
+	position:absolute;
+	top:0;
+	right:0px;
+}
+.search form input{
+	width:200px;
+	/*height:80px;*/
+}

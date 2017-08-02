@@ -1,0 +1,2 @@
+/* pages/us/map/gzmap.wxss */
+@import "bjmap.wxss";

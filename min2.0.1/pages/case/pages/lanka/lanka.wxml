@@ -1,0 +1,59 @@
+<!--lanka.wxml-->
+<text class="head">【深海之梦】蓝卡门窗—SI设计</text>
+<text class="date">2017/06/13</text>
+<view class="Poem">
+  <text>这一生，只做一个梦。</text>
+  <text>这梦里，只有你。</text>
+  <text>这梦中人，永远永远都不要醒。</text>
+</view>
+<view class="Wrap">
+  <image src="http://www.netjc.cn/xcx/index/litao.jpg" background-size="contain"></image>
+  <view class="WrapP">
+    <text>空间布局</text>
+    <text>空间采用蜂巢六边形分区，360度全方位展示，使人流动线更为活跃。回字形动线，展厅内不留死角。</text>
+  </view>
+</view>
+<text class="Para">空间产品展示</text>
+<text class="Para">产品展示考虑最佳展示采用，采用“产品托景”的陈列方式，使观者注意力更为集中，更好的吸引观者。不同的空间演绎不同的故事，移步换景。让观者驻足产生遐想，减少枯燥。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk1.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk2.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk3.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk7.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk8.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk9.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk10.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk11.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/lk/lk12.jpg" background-size="cover"></image>
+</view>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+<!-- <include src="/utils/pulish.wxml" /> -->
+<!-- 留言板... -->

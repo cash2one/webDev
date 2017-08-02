@@ -1,0 +1,54 @@
+<!--guoao.wxml-->
+<!--mengqian.wxml-->
+<text class="head">【品牌传播案例详情】国奥北方—绿色生态</text>
+<text class="date">2017/06/13</text>
+<view class="Poem">
+  <text>种豆南山下，草盛豆苗稀。</text>
+  <text>晨兴理荒秽，带月荷锄归。</text>
+  <text>道狭草木长，夕露沾我衣。</text>
+  <text>衣沾不足惜，但使愿无违。</text>
+  <text style="text-align:right;">——陶潜</text>
+</view>
+<text class="Para">国奥（北方）的愿景是通过国奥三生农业项目把绿色食品、绿色生态、绿色农业拉到当地正在积极推进的城市建设、新型城镇化建设中来，为推进国家大力扶持的现代农业与新型城镇化互动发展，贡献企业的力量。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga1.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga2.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga3.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga7.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga8.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga9.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga10.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga11.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/ga/ga12.jpg" background-size="cover"></image>
+</view>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+<!-- <include src="/utils/pulish.wxml" /> -->
+<!-- 留言板... -->

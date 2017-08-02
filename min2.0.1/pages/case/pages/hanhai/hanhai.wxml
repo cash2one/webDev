@@ -1,0 +1,44 @@
+<!--hanhai.wxml-->
+<text class="head">【大航海斗士】瀚海美邦——全屋定制</text>
+<text class="date">2017/06/13</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh1.jpg" background-size="cover"></image>
+</view>
+<text class="Para">设计理念：</text>
+<text class="Para">画册整体设计风格以“膜压全屋定制之旅 ” 为主题 。结合产品系列风格分类，以不同地区的信戳和地标突出产品风格的归属，站点设计理念可以让读者在翻阅过程中如旅行般去感受不同的膜压产品风格和文化及品牌方对膜压全屋定制方案的理解和诠释 封面设计和内文设计上匀紧扣主题，视觉上打破常规，专属性强，有视觉记忆点。画册阅读次序和体系亦清晰 在情感层面，膜压定制之旅上升到幸福之旅，在产品之外赋予更多情感诉求。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh2.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh3.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh7.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh8.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh9.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh10.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/hh/hh11.jpg" background-size="cover"></image>
+</view>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+<!-- <include src="/utils/pulish.wxml" /> -->
+<!-- 留言板... -->

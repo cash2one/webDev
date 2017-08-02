@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>总裁致辞</title>
+<link>http://localhost:8080/deluoni/a/webbase/dreamweaver/</link>
+<description>关于我们 / 总裁致辞</description>
+<language>zh-cn</language>
+<generator><![CDATA[Copyright &amp;copy; 德洛尼家居, Delonne home AlRights Reserved.]]></generator>
+<webmaster>desdev@vip.qq.com</webmaster>
+<item>
+    <title><![CDATA[{dede:招聘启事 标题='织梦大家庭新年招募第一波'}]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0408/106.html</link>
+    <description><![CDATA[2010年，新一年，新征程……织梦大家庭招募能够共同创业的新伙伴。首要特点：织梦需要的是创业伙伴，而非普通员工。织梦是一个大家共同的创业平台！繁华浮躁的时代，我们需要的是『不浮躁』的人。]]></description>
+    <pubDate>2010-04-08</pubDate>
+    <category>总裁致辞</category>
+    <author>织梦官方</author>
+    <comments>织梦官方</comments>
+</item>
+<item>
+    <title><![CDATA[在Dreamweaver中为插入的Flash添加透明]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/72.html</link>
+    <description><![CDATA[Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Flash添加透明等参数有两种方法。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver8创建自定义代码片段的方法]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/71.html</link>
+    <description><![CDATA[一个好的“偷懒”方法，就好比充满困难的路途中出现一盏明灯，简化了好多繁杂的工作，让你有更多精力做其他事情，做的更顺手。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver方便快捷编辑网页标签]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/70.html</link>
+    <description><![CDATA[不知各位是否有手写代码的习惯。例如：要在一个单元格插入一段CSS代码，或者一段Javascript代码，怎么做才比较快捷方便呢？ 虽然Dreamweaver已经为我们提供了代码视图，可是必竟还要手工去查找，还要来回地切换。虽然也可以用代码视图与编辑视图并存的]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[用Dreamweaver合理为为网页进行优化]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/69.html</link>
+    <description><![CDATA[我们为了优化网页、加快网页下载速度，除了对图片进行优化之外，还需对网页其他各个元素进行优化。在网页编织过程中如能充分利用编辑工具，也可以在网页制作中达到优化目的。 下面是Dreamweaver中的一些优化技法: 合理调用CSS 进行网页设计时，运用]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[使用Dreamweaver来详细了解CSS的多样性]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/68.html</link>
+    <description><![CDATA[说明：√属性继承 ×不继承 [ ]为适应元素类型 无[ ]标出为所有元素字体√Font-family√Font-size 9 10 12 14 16 18 24 36 xx-small x-small small medium large x-large xx-large smaller larger√Color√Font-style normal italic obliqu]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[网页禁止右键菜单及禁止全选代码]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/67.html</link>
+    <description><![CDATA[script language=JavaScriptdocument.oncontextmenu=new Function(event.returnValue=false;);document.onselectstart=new Function(event.returnValue=false;);/script 很好用!]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver网页制作教程：层及其应用]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/66.html</link>
+    <description><![CDATA[层（Layer）是一种 HTML 页面元素，您可以将它定位在页面上的任意位置。层可以包含文本、图像或其它 HTML 文档。层的出现使网页从二维平面拓展到三维。可以使页面上元素进行重叠和复杂的布局。首先，请看下图： 我们首先来做一个层 1、 在「窗口」菜单]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[新手入门：利用DW8掌握网页代码基本格式]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/65.html</link>
+    <description><![CDATA[说到代码，有人会问：不懂代码能不能制作网页？答案是肯定的。有些人不懂代码同样能制作出非常好的网页。 在Dreamweaver的设计窗口中你每增加或改变一项内容，会自动生成相应代码。那又产生另一个问题：为什么要了解或者熟悉代码呢？可以说熟悉代码将会使你]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver cs3新功能Spry效果试用]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/64.html</link>
+    <description><![CDATA[Dreamweaver CS3集成了AJAX框架Spry，使得我最近对Spry感上了兴趣。 再次说明下Spry是Adobe公司推出的AJAX框架，所谓AJAX框架，就先谈目前流行的Web2.0. 1，这些Web2.0站点从页面形式上来看，页面与浏览者的交互很时尚、也很人性化。比如注册信息时输]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[通过Dreamweaver设计网页时组织CSS的建议]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/63.html</link>
+    <description><![CDATA[一般地讲，样式表（style sheet）就是控制网页内容外观的格式化的规则的集合。可以以三种不同的方式在你的页面中使用CSS：]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[在Dreamweaver8.0.2中为插入的Flash添加透明或其他参数]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/62.html</link>
+    <description><![CDATA[Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Fl]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver CS3新功能]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/61.html</link>
+    <description><![CDATA[随着Adobe Dreamweaver CS3的预销我们开始了新一轮的Dreamweavr学习，那么让我们先了解下Dreamweaver CS3都有哪些新功能：]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver中加入竖直线的问题]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/60.html</link>
+    <description><![CDATA[网页制作时经常用到1个像素高或宽的细线条来修饰，可以使网页的布局更加清晰，整体更加美观。由于一直习惯使用Dreamweaver编]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver基础教程：层及其应用]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/59.html</link>
+    <description><![CDATA[层(Layer)是一种 HTML 页面元素，您可以将它定位在页面上的任意位置。层可以包含文本、图像或其它 HTML 文档。层的出现使网页]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver8轻松实现文本的段落缩进]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/58.html</link>
+    <description><![CDATA[如何在Drwamweaver中实现文本的段落缩进，也就成了网页制作中的一大难题。针对这一问题，本文为大家提供以下几种解决办法。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[插入的Flash添加透明或其他参数]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/57.html</link>
+    <description><![CDATA[Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Flash添加透明等参数有两种方法。内容来自中国站长资讯网(www.chinahtml.com)● 用Dreamweaver的属性面板为插入的Flash添加透明属]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver cs3 彩蛋]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/56.html</link>
+    <description><![CDATA[随着ADOBE CS3系列产品的亮相，我们最关注的Dreamweaver CS3也获得了最新的消息。首先先来看看传统的Dreamweaver彩蛋是否还在。内容来自中国站长资讯网(www.chinahtml.com)第一个Dreamweaver彩蛋就是：1，在网页中插入一张图像；2，打开属性面板，在图像的缩]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[用 Dreamweaver 8 搞定web标准]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/55.html</link>
+    <description><![CDATA[如果您正在读这篇文章，您很可能是已经对 Web 标准有了一定的兴趣，并且对用 DW ( Dreamweaver 的简称)来构建的站点中标准的应用非常好奇。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[使用Dreamweaver批量做web网页]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/54.html</link>
+    <description><![CDATA[做网站，麻烦在更新，特别是大规模更新，工作量非常大。真不知那些创意不断而又勤奋的“站长”，隔三岔五将网站来个“大换血”，是怎么忙过来的。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+
+</channel>
+</rss>

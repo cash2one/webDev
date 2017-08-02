@@ -1,0 +1,22 @@
+<!--pinpai.wxml-->
+<image src="http://www.netjc.cn/xcx/case/pp/pp1.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp2.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp3.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp4.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp5.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp6.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp7.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp8.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp9.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp10.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp11.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp12.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp13.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp14.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp15.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp16.jpg" background-size="100% 100%"></image>
+<image src="http://www.netjc.cn/xcx/case/pp/pp17.jpg" background-size="100% 100%"></image>
+<image style="height:1120rpx;" src="http://www.netjc.cn/xcx/case/pp/pp18.jpg" background-size="100% 100%"></image>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->

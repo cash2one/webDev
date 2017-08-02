@@ -1,0 +1,63 @@
+	/*footer*/
+	.footer{
+		width:100%;
+		text-align: center;
+		padding:50px 0 30px 0;
+		background-color: #333333;
+	}
+	.footer-wrap{
+		width:1200px;
+		color:#fff;
+		text-align: center;
+		margin:0 auto;
+	}
+	.footer ul{
+		width:1200px;
+		height:20px;
+	}
+	.footer li{
+		float: left;
+		font-size: 14px;
+		margin-left: 45px;
+		color:#cccccc;
+	}
+	.footer li a{
+		color:#cccccc;
+	}
+	
+	.footer .no-margin{
+		margin-left: 266px;
+	}
+	.footer-bottom{
+		width:1200px;
+		margin-bottom:50px;
+	}
+	.footer-bottom h2{
+		margin:34px 0 18px 0;
+		font-size: 18px;
+	}
+	.footer-bottom p{
+		margin:0 0 34px 0;
+	}
+	@media only screen and (max-width:768px){
+		.footer .no-margin{
+			margin-left: 26px;
+		}
+		.footer ul{
+			display:none;
+		}
+		.footer-bottom{
+			width:100%;
+			margin-bottom:50px;
+		}
+	
+		.footer-bottom{
+			text-align:center;
+			margin-bottom:20px;
+		}
+		.footer-wrap{
+			width:100%;
+		}
+	}
+
+/*底部导航内容结束*/

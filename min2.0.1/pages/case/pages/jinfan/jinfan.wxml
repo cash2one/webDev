@@ -1,0 +1,46 @@
+<!--jinfan.wxml-->
+<!--boshiwu.wxml-->
+<text class="head">【涅槃重生】瑾梵国际——VI设计</text>
+<text class="date">2017/06/13</text>
+<view class="Poem">
+  <text>许你一生瑾绣年华</text>
+  <text>伴我一世梵花似锦</text>
+</view>
+<text class="Para">VI整体为一朵鸢尾花情系两位静卧的女人侧脸。鸢尾又叫蝴蝶蓝、蝴蝶花、铁扁担，法国以鸢尾花为国花，鸢尾花3枚花瓣，意味着基督教的圣父、圣子和圣灵三位一体。表示光明和自由，象征民族纯洁、庄严和光明磊落。</text>
+<text class="Para">想要为这朵光明之花衬以文字，需由配色开始。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/jf/jf1.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/jf/jf2.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/jf/jf3.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/jf/jf4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/jf/jf5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/jf/jf6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/jf/jf7.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/jf/jf8.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/jf/jf9.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/jf/jf10.jpg" background-size="cover"></image>
+</view>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+<!-- <include src="/utils/pulish.wxml" /> -->
+<!-- 留言板... -->

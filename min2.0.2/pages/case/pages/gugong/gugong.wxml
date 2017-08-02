@@ -1,0 +1,48 @@
+<!--ggong.wxml-->
+<text class="head">故宫—檀宮题</text>
+<text class="date">2017/06/13</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg1.jpg" background-size="cover"></image>
+</view>
+<text class="Para">北京檀宫题礼品设计有限公司，致力于发扬中国传统木雕文化，主营各类高端红木、小叶紫檀、黄花梨、老山檀香等木雕艺术礼品设计制作，为故宫旅游文化提供工艺礼品设计制作服务。</text>
+<text class="Para">立足传统佛教技术之根，以当代审美视角和文化体悟重塑佛教艺术之体，既是对传统文化的继承和发展，也是在当代文化生态中探寻传统技术新的可能性。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg2.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg3.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg7.jpg" background-size="cover"></image>
+</view>
+<text class="Para">国人用香，历史悠久，在春秋《国语》一书中就有“芝兰之室”的记载。香的文化和器物作为精英文化模式和优雅生活方式的主要组成部分，已经渗透入衣食住行之中，国人血脉之中。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg8.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg9.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg10.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg11.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/gg/gg12.jpg" background-size="cover"></image>
+</view>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+<!-- <include src="/utils/pulish.wxml" /> -->
+<!-- 留言板... -->

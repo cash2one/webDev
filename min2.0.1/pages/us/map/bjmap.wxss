@@ -1,0 +1,17 @@
+/* pages/us/map/bjmap.wxss */
+
+map{
+  width: 100%;
+  height: 500px;
+}
+
+.mapTxt {
+  width: 730rpx;
+  height: 183rpx;
+  line-height: 183rpx;
+  display: block;
+  background: #efefef;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  font-size: 28rpx;
+  padding: 0rpx 10rpx 0rpx 10rpx;
+}

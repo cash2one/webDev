@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>公司简介</title>
+<link>http://localhost:8080/deluoni/a/webbase/html/</link>
+<description>关于我们 / 公司简介</description>
+<language>zh-cn</language>
+<generator><![CDATA[Copyright &amp;copy; 德洛尼家居, Delonne home AlRights Reserved.]]></generator>
+<webmaster>desdev@vip.qq.com</webmaster>
+<item>
+    <title><![CDATA[DedeCMS V5.6 开发日志及新建议提交贴]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/92.html</link>
+    <description><![CDATA[说明： ■为已经升级或修正的功能 □表示需多处同时处理的复杂功能或待验证功能 [新增] ■ 1.搜索关键词批量管理功能; □ 2.会员中心更换全新UI界面,让用户中心更亲切方便; ■ 2.1 会员中心增加好友动态功能; ■ 2.2 添加会员心情功能(用户可以在会员中心设]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>织梦官方</author>
+    <comments>织梦官方</comments>
+</item>
+<item>
+    <title><![CDATA[HTML基础教程：学习掌握HTML 元素]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/20.html</link>
+    <description><![CDATA[HTML文档是由HTML元素构成的文本文件。HTML元素是通过使用HTML标签进行定义的。HTML标签 HTML标签是用来标记HTML元素的。 HTML标签被和符号包围。 这些包围的符号叫作。 HTML标签是成对出现的。例如b和/b。 位于起始标签和终止标签之]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[HTML基础知识：学习掌握HTML 标准属性]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/19.html</link>
+    <description><![CDATA[HTML标签拥有属性。每个标签的特殊属性均被列于每个标签描述之下。这里列出的属性是通用于每个标签的核心属性和语言属性（有个别例外）：核心属性 (Core Attributes)以下标签不提供下面的属性：base、head、html、meta、param、script、style以及title元素。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[浅谈XHTML（可扩展HTML）标准中CDATA]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/18.html</link>
+    <description><![CDATA[近来，随着XHTML（可扩展HTML）标准的出现，script/标签也经历了一些改变。该标签不再用language特性，而用type特性声明内嵌代码或要加入的外部文件的mime类型，JavaScript的mime类型是text/javascript。例如：html head]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[快速精通网页框架FRAME]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/17.html</link>
+    <description><![CDATA[FRAME（框架）是Web上经常会看到的页面结构。使用可视Web开发工具（比如Dreamweaver或者Frontpage），虽然可以在 WYSIWYG环境中通过简单的鼠标托拽完成FRAME的构建，但是要实现真正细致甚至强大的功能，仔细理解FRAME的代码结构至关重要！你将发现， FRAME原]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[使用XHTML按标准重构网站]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/16.html</link>
+    <description><![CDATA[我们曾经为本节撰写的标题是：“XHTML:简单的规则，容易的方针。”原因之一是，本节讨论的规则和方针是简单和容易的。原因之二是，一本简单和容易的WEB设计图书，就像超级市场的新式的免费商品一样，虽然常见却可以有效地吸引人的眼球，这样的东西可以刺激人]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[网页文本排版知识：为正确的内容使用恰当的标签]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/15.html</link>
+    <description><![CDATA[在制作网页时，文本内容是必不可少的！那么我们该如何对网页文本进行正确排版呢？当段落标签p应该使用在段落的时候还有许多滥用换行标签br的情况，p用于表现段落是公认的。基于同样的逻辑，很多标签应该被用来定义确定的文本元素，比如引用，缩写和计算机代码]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[HTML网页初学者教程：讲解网页标题Title]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/14.html</link>
+    <description><![CDATA[我们制作的每一个HTML网页都应该有文档标题。那么到底如何设置标题呢？这个教程就作为网页初学者的入门吧！给你的文档增加一个标题，按照下面改变你的代码：!DOCTYPE html PUBLIC -//W3C//DTD XHTML 1.0 Strict//ENhttp://www.w3.org/]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[新手学习老知识（一）HTML语言基础]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/13.html</link>
+    <description><![CDATA[近两年来，许多公司开发出了图形化的HTML开发工具，使得网页的制作变得非常简单。如微软公司推出的 Microsoft FrontPage， Adobe公司推出的 Adobe Pagemill， Micromedia公司推出的Dreamweaver等编辑工具，都被称为“所见即所得”的网页制作工具。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[新手学习老知识（二）HTML用好活动字幕标记marquee]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/12.html</link>
+    <description><![CDATA[活动字幕，也称为滚动看板、滚动字幕。活动字幕的使用使得整个网页更有动感，显得很有生气。现在的网站中也越来越多地使用活动字幕来加强网页的互动性。用Javascript编程可以实现活动字幕效果；用Dreamweaver的图层再用其时间线功能可以做出非常漂亮的滚动看]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[新手学习老知识（三）HTML教程用好超级链接标记A]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/11.html</link>
+    <description><![CDATA[超级链接 标记代表一个链接点，是英文anchor（锚点）的简写。它的作用是把当前位置的文本或图片连接到其他的页面、文本或图像，这已是众所周知了，但关于它的语法结构可能有点鲜为人知，而要用活它则必须了解其语法结构。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[表格中单元格之间分隔线的隐藏方法]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/10.html</link>
+    <description><![CDATA[隐藏分隔线的诀窍在于rules，察看这三个表格的源代码，我们可以看到表格标签中都有rules。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[HTML教程：建立超级连接]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/9.html</link>
+    <description><![CDATA[tabbing浏览不或不能使用指点设备的用户可以用快捷键tab键来打开连接，并且本身也要有逻辑tab顺序。尽管HTML是线性的，tabindex属性允许你定义它快捷键们的顺序，而且这些逻辑tab应该可以自动落入自己位置。快捷键快捷键可以通过键盘的特定按键进行更方]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[介绍span和div标签的使用]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/8.html</link>
+    <description><![CDATA[鉴于HTML初级教程的目的只是教授HTML的骨架元素，这个中级教程增加一些骨肉，它们不应该特别的难，但可以进一步增进我们对HTML的理解，使我们能多做一些更有用的事情。HTML只是赋予内容的手段，大部分HTML标签都有其意义（标签p创建段落，h1标签创建标题等等]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[对于初学者不错的XHTML教程]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/7.html</link>
+    <description><![CDATA[在这个教程里，你将学到HTML和XHTML之间的不同，以及如何将HTML转换为XHTML。毕竟XHTML是发展的方向，所以我觉得该教程有必要在本站上发布。我感觉要是你想使用标准还是最好先学HTML，因为比较简单，然后再来看该教程。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[网页制作初学者：认识XHTML DHTML SHTML的区别]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/6.html</link>
+    <description><![CDATA[我们经常会在一个技术性网站或BBS见到这三个东东：XHTML DHTML SHTML，它们到底是怎么回事呢？我们看下面的说明与讲解。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[实例学习网页制作中常用的网页表单的应用]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/5.html</link>
+    <description><![CDATA[说实话，无论是asp,php还是jsp进行网络编程的时候，都离不开和用户的交互。而人机对话的平台，基本上是靠相应的文本、列表框进行输入，然后通过按钮提交送至数据库的。所以学习网络编程就一定要了解这些输入平台相关的东西：表单（form）其基本格式如下：]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[初学者很好的参考：HTML标签详尽讲解]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/4.html</link>
+    <description><![CDATA[结构＜html＞＜head＞＜title＞标题＜title＞＜/head＞＜body＞..........文件内容..........＜/body＞＜/html＞1.文件标题＜title＞..........＜/title＞2.文件更新--＜meta＞ 【1】10秒后自动更新一次 ＜meta http-equiv=refresh]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[网页中应用表格爱好者]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/3.html</link>
+    <description><![CDATA[你认为已经知道怎么制做表格了吧。当然，你已经了解 table、tr、td和th标签了，甚至还在你的口袋里装入了rowspan和colspan。你确实可以制做一个精美小巧的咖啡色三合板桌子（表格），但难道你不想做一个优雅稳固，上面有玻璃的，足以承受一头大笨象的宴会桌（]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[初学者：XHTML常用标签的基本应用指南]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/2.html</link>
+    <description><![CDATA[一段时间以来，发现有很多人XHTML都不会用，不光是普通的初学者，有的程序员都不是很清楚该怎么写这个XHTML，我这里呢算是把一些常见的应用问题做一个总结，也算能使得大家能在沟通，合作上能形成默契。 XHTML里有很多的标签，但是经常用到的也就是那么]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[学习HTML 4.0事件属性]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/1.html</link>
+    <description><![CDATA[HTML 4.0的新特性之一是使HTML事件触发浏览器中的行为，比方说当用户点击一个HTML元素时启动一段JavaScript。以下就是可被插入HTML标签以定义事件行为的一系列属性。假如你希望学习如何使用这些事件进行编程，那么你应该学习我们的JavaScript教程和DHTML教程]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+
+</channel>
+</rss>

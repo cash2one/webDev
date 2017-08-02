@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title></title>
+
+<!-- <link type="text/css" href="css/font-awesome.css" rel="stylesheet" /> -->
+<link type="text/css" href="css/style.css" rel="stylesheet" />
+<!-- <link type="text/css" href="css/common_pc.css" rel="stylesheet" /> -->
+<script type="text/javascript" src="js/jQuery-1.10.1.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+</head>
+<body>
+<div class="content content1">
+	<img src="images/logo.png" alt="" />
+	<ul class="venus-menu">
+		<li class="active"><a href="#">关于我们</a></li>
+		<li><a href="#">新闻动态 </a></li>
+		<li>
+			<a href="#"> 产品系列</a>
+		</li>
+		<li><a href="#">家装案例     </a></li>
+		<li><a href="#">招商加盟</a></li>
+		<li><a href="#">实体店</a></li>
+		<li><a href="#">联系我们</a></li>
+		<li class="search">
+			<form method="get">
+				<input type="text" name="search" class="search" placeholder="请输入商品名称" />
+			</form>
+		</li>
+	</ul>
+</div>
+
+<script>
+function postLike(obj) {
+	if ($(obj).hasClass('done')) {
+		return false;
+	} else {
+		$(obj).addClass('done');
+		var id = $(obj).data("id"),
+		action = $(obj).data('action'),
+		rateHolder = $(obj).next('.ding_count');
+		count = parseInt($(rateHolder).html());
+		count++;
+		$(rateHolder).html(count);
+		var ajax_data = {
+			action: "oneplus_like",
+			um_id: id,
+			um_action: action
+		};
+		$.post("/wp-admin/admin-ajax.php", ajax_data,
+			function(data) {
+			}
+		);
+		return false;
+	}
+};
+</script>
+<div class="footer">
+	<div class="footer-wrap">
+		<ul>
+			<li class="no-margin"><a href="">关于德洛尼</a></li>
+			<li><a href="">新闻动态</a></li>
+			<li><a href="">产品系列</a></li>
+			<li><a href="">家装案例</a></li>
+			<li><a href="">招商加盟</a></li>
+			<li><a href="">实体店</a></li>
+			<li><a href="">联系我们</a></li>
+		</ul>
+		<div class="footer-bottom">
+			<h2>招商加盟热线 4006-0303-99</h2>
+			<p>Copyright &copy; 德洛尼家居, Delonne home All Rights Reserved.</p>
+			<img src="images/erweima.png" alt="" />
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

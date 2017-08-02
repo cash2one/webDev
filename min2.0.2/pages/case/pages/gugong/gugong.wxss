@@ -1,0 +1,3 @@
+/* gugong.wxss */
+/* @import "../common/common.wxss"; */
+@import "/utils/common.wxss";

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>新闻动态</title>
+	<link rel="stylesheet" href="/deluoni/templets/default/css/common.css"/>
+	<link rel="stylesheet" media="screen and (min-width:1024px)" href="/deluoni/templets/default/css/pc.css"/>
+	<link rel="stylesheet" media="screen and (min-width:768px) and (max-width:1023px)" href="/deluoni/templets/default/css/ipad.css"/>
+	<link rel="stylesheet" media="screen and (max-width:767px)" href="/deluoni/templets/default/css/phone.css"/>
+	<script src="/deluoni/templets/default/js/common.js"></script>
+	<script>
+		addEventListener('DOMContentLoaded',function(){
+			tab('option','box');
+		},false);
+	</script>
+</head>
+<body id="news">
+	<!--头部-->
+	<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>header</title>
+	<link rel="stylesheet" href="/deluoni/templets/default/css/common.css"/>
+	<script src="/deluoni/templets/default/js/common.js"></script>
+	<script type="text/javascript">
+		addEventListener('DOMContentLoaded',function(){
+			header();
+		},false);
+	</script>
+</head>
+<body>
+	<!--头部-->
+	<div class="head" id="head">
+		<a href="/deluoni" class="head_img"></a>
+		<ul class="menu" id="menu">
+			
+          <li><a href='/deluoni/a/link/'  rel='dropmenu1'>关于我们</a></li>
+          <li class='hover'><a href='/deluoni/a/news/'  rel='dropmenu6'>新闻动态</a></li>
+          <li><a href='/deluoni/a/product/'  rel='dropmenu7'>产品系列</a></li>
+          
+          <li><a href='/deluoni/a/case/'  rel='dropmenu8'>家装案例</a></li>
+          
+          <li><a href='/deluoni/a/join/' >招商加盟</a></li>
+          
+          <li><a href='/deluoni/a/shop/' >实体店</a></li>
+          
+          <li><a href='/deluoni/a.call/' >联系我们</a></li>
+          
+			<li class="search" id="seach">
+				<div class="ipt">
+					<form method="get" class="form">
+						<input type="text" name="search" class="sear" placeholder="请输入商品名称"/>
+						<div style="background-image:url(/deluoni/templets/default/imgs/search.svg);"></div>
+					</form>
+				</div>
+			</li>
+		</ul>
+		<div class="open" id="open"></div>
+	</div>
+	<!--头部...-->
+</body>
+</html>
+	<!--头部...-->
+	<!--大背景-->
+	<div class="bg_img" style="background-image:url(imgs/new_bg.png)"></div>
+	<!--菜单-->
+	<div class="option" id="option">
+		<span class="active">企业动态</span>
+		<span>促销信息</span>
+	</div>
+	<!--企业动态-->
+	<section id="box" class="box">
+		<div class="n_state" id="state">
+			<div class="n_tab">
+				<a href="n_detail.htm" class="link1">
+					<div class="n_tab_img img1" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tab_d1 det1 det">
+						<date>2017/05/26</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼</h3>
+						<p>德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+				<a href="n_detail.htm" class="link2">
+					<div class="n_tab_img img2" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tab_d2 det2 det">
+						<date>2017/05/26</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+				<a href="n_detail.htm" class="link3">
+					<div class="n_tab_img img3" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tab_d3 det3 det">
+						<date>2017/05/26</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+			</div>
+			<div class="n_tab">
+				<a href="n_detail.htm" class="link4">
+					<div class="n_tab_img img4" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tab_d1 det4 det">
+						<date>2017/05/26</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+				<a href="n_detail.htm" class="link5">
+					<div class="n_tab_img img5" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tab_d2 det5 det">
+						<date>2017/05/26</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+				<a href="n_detail.htm" class="link6">
+					<div class="n_tab_img img6" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tab_d3 det6 det">
+						<date>2017/05/26</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+			</div>
+		</div>
+		<!--企业动态...-->
+		<!--促销信息-->
+		<div class="n_sales" id="sales">
+			<div class="n_tabs">
+				<a href="n_detail.htm" class="links1">
+					<div class="n_tabs_img imgs1" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tabs_d1 dets1">
+						<date>2017/06/07</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+				<a href="n_detail.htm" class="links2">
+					<div class="n_tabs_img imgs2" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tabs_d2 dets2">
+						<date>2017/06/07</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+				<a href="n_detail.htm" class="links3">
+					<div class="n_tabs_img imgs3" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tabs_d3 dets3">
+						<date>2017/06/07</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+			</div>
+			<div class="n_tabs">
+				<a href="n_detail.htm" class="links4">
+					<div class="n_tabs_img imgs4" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tabs_d1 dets4">
+						<date>2017/06/07</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+				<a href="n_detail.htm" class="links5">
+					<div class="n_tabs_img imgs5" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tabs_d2 dets5">
+						<date>2017/06/07</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+				<a href="n_detail.htm" class="links6">
+					<div class="n_tabs_img imgs6" style="background-image:url(imgs/news_1.png)"></div>
+					<div class="n_tabs_d3 dets6">
+						<date>2017/06/07</date>
+						<span>企业动态</span>
+						<h3>德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</h3>
+						<p>德洛尼德洛尼德洛尼德洛尼德洛尼德洛德洛尼德洛尼德洛尼德洛尼德洛尼尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼德洛尼</p>
+					</div>
+				</a>
+			</div>
+		</div>
+		<!--促销信息...-->
+	</section>
+	    <!--侧边栏-->
+		<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>侧边栏</title>
+		<link rel="stylesheet"  href="/deluoni/templets/default/css/common.css"/>
+	</head>
+	<body>
+		<div class="sidebar">
+			<a href="javascript:;" class="sidebar_one"><img src="imgs/lc.png"/></a>
+			<a href="javascript:;" class="sidebar_two"><img src="imgs/dw.png"/></a>
+		</div>
+	</body>
+</html>
+
+		<!--侧边栏...-->
+		<!--footer-->
+		<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>footer</title>
+	<link rel="stylesheet" href="/deluoni/templets/default/dln/css/common.css"/>
+</head>
+<body>
+	<div class="footer">
+		<div class="footer_wrap">
+			<ul>
+				<li><a href="link.htm">关于我们</a></li>
+				<li><a href="news.htm">新闻动态</a></li>
+				<li><a href="product.htm">产品系列</a></li>
+				<li><a href="case.htm">家装案例</a></li>
+				<li><a href="join.htm">招商加盟</a></li>
+				<li><a href="shop.htm">实体店</a></li>
+				<li><a href="call.htm">联系我们</a></li>
+			</ul>
+			<div class="footer_bottom">
+				<h2>招商加盟热线 4006-0303-99</h2>
+				<p>Copyright &copy; 德洛尼家居, Delonne home AlRights Reserved.</p>
+				<img src="imgs/weixin.png"/>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+		<!--footer...-->
+</body>
+</html>

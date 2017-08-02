@@ -1,0 +1,120 @@
+<!--introduce.wxml-->
+<!--菜单-->
+<view class="introMenu">
+  <view class="introMenuList {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">公司介绍</view>
+  <view class="introMenuList {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">公司地址</view>
+  <view class="introMenuList {{currentTab==2 ? 'on' : ''}}" data-current="2" bindtap="swichNav">团队介绍</view>
+  <view class="introMenuList {{currentTab==3 ? 'on' : ''}}" data-current="3" bindtap="swichNav">天方叶谈</view>
+</view>
+<!--菜单...-->
+<!--intro-->
+<view class="introBox">
+  <!--公司介绍-->
+  <view class="intro {{currentTab==0 ? 'show' : ''}}" bindtap="swichNav">
+    <!--轮播图-->
+    <include src="/utils/slideshow.wxml" />
+    <!--轮播图...-->
+    <view class="Img">
+      <image src="http://www.netjc.cn/xcx/us/1.jpg" background-size="cover"></image>
+    </view>
+    <view class="Img">
+      <image src="http://www.netjc.cn/xcx/us/2.jpg" background-size="cover"></image>
+    </view>
+    <view class="Img">
+      <image src="http://www.netjc.cn/xcx/us/3.jpg" background-size="cover"></image>
+    </view>
+    <view class="Img">
+      <image src="http://www.netjc.cn/xcx/us/4.jpg" background-size="cover"></image>
+    </view>
+    <view class="Img">
+      <image src="http://www.netjc.cn/xcx/us/5.jpg" background-size="cover"></image>
+    </view>
+    <view class="Img">
+      <image src="http://www.netjc.cn/xcx/us/6.jpg" background-size="cover"></image>
+    </view>
+    <view class="Img">
+      <image src="http://www.netjc.cn/xcx/us/7.jpg" background-size="cover"></image>
+    </view>
+    <view class="Img">
+      <image src="http://www.netjc.cn/xcx/us/8.jpg" background-size="cover"></image>
+    </view>
+    <view class="Img">
+      <image src="http://www.netjc.cn/xcx/us/9.jpg" background-size="cover"></image>
+    </view>
+    <view class="Img">
+      <image src="http://www.netjc.cn/xcx/us/10.jpg" background-size="cover"></image>
+    </view>
+    <image class="aboutUsImg" src="http://www.netjc.cn/xcx/us/td2.jpg" background-size="100% 100%"></image>
+  </view>
+  <!--公司介绍...-->
+  <!--公司地址-->
+  <view class="intro {{currentTab==1 ? 'show' : ''}}" bindtap="swichNav">
+    <!-- 联系我们 -->
+    <!-- <include src="/utils/call.wxml" /> -->
+    <!-- 联系我们... -->
+    <view class="companyAddress">
+      <text>北京市大兴区绿地兴贸中心2号楼1单元1701</text>
+      <image class="addImg" src="http://www.netjc.cn/xcx/us/bjadd.jpg" background-size="100% 100%" bindtap="toBjMap"></image>
+    </view>
+    <view class="companyAddress">
+      <text>上海市闵行区中春路7615号</text>
+      <image class="addImg" src="http://www.netjc.cn/xcx/us/shadd.jpg" background-size="100% 100%" bindtap="toShMap"></image>
+    </view>
+    <view class="companyAddress">
+      <text>广州市广园路科华街251号乐天创意园</text>
+      <image class="addImg" src="http://www.netjc.cn/xcx/us/gzadd.jpg" background-size="100% 100%" bindtap="toGzMap"></image>
+    </view>
+    <button class="call" catchtap="callTap">立即拨打：4006-030-399</button>
+  </view>
+  <!--公司地址...-->
+  <!--团队介绍-->
+  <view class="intro {{currentTab==2 ? 'show' : ''}}" bindtap="swichNav">
+    <image class="introImg1" src="http://www.netjc.cn/xcx/us/td1.jpg" background-size="100% 100%"></image>
+    <!--设计师展示-->
+    <view class="indexStylist">
+      <image class="recommend" src="http://www.netjc.cn/xcx/us/recommend.jpg" background-size="cover"></image>
+      <view class="indexStylistItem">
+        <image class="indexStylistImg" src="http://www.netjc.cn/xcx/index/mrshe.jpg" background-size="cover"></image>
+        <view class="indexStylistIntro">
+          <text class="indexStylistIntroName">Mr.折</text>
+          <text class="indexStylistIntroAbility">资深设计总监，随时头脑风暴的设计者</text>
+        </view>
+      </view>
+      <view class="indexStylistItem">
+        <image class="indexStylistImg" src="http://www.netjc.cn/xcx/index/xiaowei.jpg" background-size="cover"></image>
+        <view class="indexStylistIntro">
+          <text class="indexStylistIntroName">筱微</text>
+          <text class="indexStylistIntroAbility">浪漫美术指导，引领家具品牌蝶变飞扬</text>
+        </view>
+      </view>
+      <view class="indexStylistItem">
+        <image class="indexStylistImg" src="http://www.netjc.cn/xcx/index/zhongyu.jpg" background-size="cover"></image>
+        <view class="indexStylistIntro">
+          <text class="indexStylistIntroName">中雨</text>
+          <text class="indexStylistIntroAbility">创意美术指导，品牌造梦者</text>
+        </view>
+      </view>
+      <view class="indexStylistItem">
+        <image class="indexStylistImg" src="http://www.netjc.cn/xcx/index/litao.jpg" background-size="cover"></image>
+        <view class="indexStylistIntro">
+          <text class="indexStylistIntroName">李涛</text>
+          <text class="indexStylistIntroAbility">3D梦想家 平面和立体的牵线师</text>
+        </view>
+      </view>
+    </view>
+    <!--设计师展示...-->
+  </view>
+  <!--团队介绍...-->
+  <!--天方叶谈-->
+  <view class="intro {{currentTab==3 ? 'show' : ''}}" bindtap="swichNav">
+    <image class="introImg3" src="http://www.netjc.cn/xcx/us/tt.jpg" background-size="100% 100%"></image>
+    <!-- <form bindsubmit="introBackSubmit" class="introBack">
+      <input type="text" name="name" bindchange="inputName" class="introBackInput" placeholder="姓名" placeholder-class="introBackFrom" />
+      <input type="text" name="num" bindchange="inputNum" class="introBackInput" placeholder="电话" placeholder-class="introBackFrom" />
+      <textarea name="textarea" bindchange="textareaArea" class="introBackArea" placeholder="请输入建议" placeholder-class="introBackFrom" />
+      <button form-type="submit">确认提交</button>
+    </form> -->
+  </view>
+  <!--天方叶谈...-->
+</view>
+<!--intro...-->

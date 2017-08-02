@@ -1,0 +1,5 @@
+<!--map.wxml-->
+<!-- 地图 -->
+<map id="bjmap" longitude="{{longitude1}}" latitude="{{latitude1}}" scale="{{scale}}" controls="{{controls}}" markers="{{markers}}" polyline="{{polyline}}" bindcontroltap="controltap" bindmarkertap="markertap" bindregionchange="regionchange" bindtap="maptap" show-location></map>
+<text class="mapTxt">北京市大兴区绿地兴贸中心2号楼1单元1701</text>
+<!-- 地图... -->

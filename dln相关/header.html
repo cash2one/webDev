@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>header</title>
+	<style type="text/css">
+		@import url("css/header.css");
+		*{
+			margin:0;
+			padding:0;
+		}
+		li{
+			list-style:none;
+		}
+		a{
+			text-decoration:none;
+			color:#000000;
+		}
+	</style>
+	<script type="text/javascript">
+		window.onload=function(){
+			setInterval(function(){
+				document.documentElement.style.fontSize=document.documentElement.clientWidth*14/1920+'px';
+			},30);
+			var oC=document.getElementById('close');
+			var oM=document.getElementById('menu');
+			var oS=document.getElementById('seach');
+			var aLi=oM.getElementsByTagName('li');
+			oC.innerHTML='☰';
+			var h=0;
+			oC.onclick=function(){
+				var timer;
+				clearInterval(timer);
+				oC.innerHTML='X';
+				for(var i=0;i<aLi.length;i++){
+					aLi[i].index=i;
+					(function(i){
+						timer=setInterval(function(){
+							h++;
+							if(h=50){
+								clearInterval(timer);
+							}
+							aLi[i].style.top=i*h+'px';
+						},30)
+					})(i);
+				}
+			};
+		}
+	</script>
+</head>
+<body>
+	<!--头部-->
+	<div class="head">
+		<a href="index.html" class="head_img"><img src="imgs/logo.png" alt="logo"/ href="index.html"></a>
+		<ul class="menu" id="menu">
+			<li><a href="link.html">关于我们</a></li>
+			<li><a href="news.html">新闻动态</a></li>
+			<li><a href="product.html">产品系列</a></li>
+			<li><a href="case.html">家装案例</a></li>
+			<li><a href="join.html">招商加盟</a></li>
+			<li><a href="shop.html">实体店</a></li>
+			<li><a href="call.html">联系我们</a></li>
+		</ul>
+		<div class="search" id="seach">
+			<form method="get" class="s_form">
+				<input type="text" name="search" class="sear" placeholder="请输入商品名称" />
+				<div style="background-image:url(imgs/search.svg);"></div>
+			</form>
+		</div>
+		<div class="close" id="close"></div>
+	</div
+	<!--头部...-->
+</body>
+</html>

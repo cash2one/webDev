@@ -1,0 +1,56 @@
+<!--mengqian.wxml-->
+<text class="head">【迷失森林】梦倩奇——原木全屋定制</text>
+<text class="date">2017/06/13</text>
+<view class="Poem">
+  <text>每一个人都有属于自己的一片森林，也许我们从来不曾去过，</text>
+  <text>但它一直在那里，总会在那里。</text>
+  <text>迷失的人迷失了，相逢的人会再相逢。</text>
+  <text style="text-align:right;">——村上春树《挪威的森林》</text>
+</view>
+<text class="Para" style="text-align:center;">原木是有生命的，它就像大自然母亲的怀抱一样，</text>
+<text class="Para" style="text-align:center;">似乎只要看着它们就能让生命回归到最自然、最悠然的那一刻。</text>
+<text class="Para" style="text-align:center;">也许这就是原木的魅力，是我不能够割舍掉它的理由吧！</text>
+<text class="Para" style="text-align:center;">仿佛梦境一般，木/本就在生命里。</text>
+<text class="Para" style="text-align:center;">我们想为您打造一本给所有消费者带来耳目一新的画册，这本画册有木、有自然、有生命、有情怀。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq1.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq2.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq3.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq7.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq8.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq9.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq10.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq11.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/mq/mq12.jpg" background-size="cover"></image>
+</view>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+<!-- <include src="/utils/pulish.wxml" /> -->
+<!-- 留言板... -->

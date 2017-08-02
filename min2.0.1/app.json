@@ -1,0 +1,69 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/case/case",
+    "pages/us/us",
+    "pages/consult/consult",
+    "pages/logs/logs",
+    "pages/index/input/input",
+    "pages/case/pages/tianrun/tianrun",
+    "pages/case/pages/gugong/gugong",
+    "pages/case/pages/bijiang/bijiang",
+    "pages/case/pages/boshiwu/boshiwu",
+    "pages/case/pages/lanka/lanka",
+    "pages/case/pages/nanfang/nanfang",
+    "pages/case/pages/chuanpu/chuanpu",
+    "pages/case/pages/jinfan/jinfan",
+    "pages/case/pages/mengqian/mengqian",
+    "pages/case/pages/hanhai/hanhai",
+    "pages/case/pages/huaju/huaju",
+    "pages/case/pages/guoao/guoao",
+    "pages/case/pages/shangmei/shangmei",
+    "pages/case/pages/pinpai/pinpai",
+    "pages/us/map/bjmap",
+    "pages/us/map/shmap",
+    "pages/us/map/gzmap"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "叶晟荣品牌设计",
+    "backgroundColor": "#fff",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": "true"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#FCC800",
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "imgs/index.jpg",
+        "selectedIconPath": "imgs/index.jpg"
+      },
+      {
+        "pagePath": "pages/case/case",
+        "text": "案例",
+        "iconPath": "imgs/case.jpg",
+        "selectedIconPath": "imgs/case.jpg"
+      },
+      {
+        "pagePath": "pages/us/us",
+        "text": "我们",
+        "iconPath": "imgs/us.jpg",
+        "selectedIconPath": "imgs/us.jpg"
+      },
+      {
+        "pagePath": "pages/consult/consult",
+        "text": "咨询",
+        "iconPath": "imgs/consult.jpg",
+        "selectedIconPath": "imgs/consult.jpg"
+      }
+    ]
+  },
+  "debug": false
+}

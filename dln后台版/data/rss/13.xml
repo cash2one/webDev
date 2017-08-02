@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>促销信息</title>
+<link>http://localhost:8080/deluoni/a/news/chunxiaoxinxi/</link>
+<description>新闻动态 / 促销信息</description>
+<language>zh-cn</language>
+<generator><![CDATA[Copyright &amp;copy; 德洛尼家居, Delonne home AlRights Reserved.]]></generator>
+<webmaster>desdev@vip.qq.com</webmaster>
+
+</channel>
+</rss>

@@ -1,0 +1,19 @@
+<!--consult.wxml-->
+<image class="amity" src="http://www.netjc.cn/xcx/con/amity.jpg" background-size="100% 100%"></image>
+<!-- <form bindsubmit="consultSubmit" class="consult">
+  <textarea name="textarea" bindchange="textareaArea" class="consultArea" placeholder="请输入建议" placeholder-class="consultFrom" />
+  <input type="text" name="num" bindchange="inputNum" class="consultInput" placeholder="您的联系方式（Email、QQ、或电话）" placeholder-class="consultFrom" />
+  <button form-type="submit">确认提交</button>
+</form> -->
+<view class="call">
+  <text>电话咨询：4006-030-399</text>
+  <button catchtap="callTap">立即拨打</button>
+</view>
+<view class="call">
+  <text>上海分部：18512187274</text>
+  <button catchtap="callTap1">立即拨打</button>
+</view>
+<view class="call">
+  <text>广州分部：18613091671</text>
+  <button catchtap="callTap2">立即拨打</button>
+</view>

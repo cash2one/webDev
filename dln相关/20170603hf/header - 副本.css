@@ -1,0 +1,65 @@
+/*头部*/
+	.head{
+		width:100%;
+		height:82px;
+		background:#FFFFFF;
+		position:relative;
+	}
+	.head .h_img1{
+		width:115px;
+		height:100%;
+		position:absolute;
+		top:0;
+		left:0;
+	}
+	.h_img1 img{
+		width:115px;
+		height:40px;
+		position:absolute;;
+		top:50%;
+		margin-top:-20px;
+	}
+
+	.head .h_list{
+		width:100%;
+		/*height:82px;*/
+		position:absolute;
+		top:82px;
+		left:0;
+		/*display:-webkit-box;
+		-webkit-box-align:center;
+		display:-ms-flexbox;
+		-ms-flex-align: center;*/
+		/*background:yellow;*/
+	}
+	.head ul{
+		/*width:100%;*/
+		/*height:auto;*/
+		background:#ccc;
+		position:absolute;
+		left:0px;
+		z-index:11111;
+	}
+	
+	.head ul li{
+		width:100px;
+		height:00px;
+		line-height:50px;
+		/*margin-bottom:30%;*/
+		font-size:20px;
+		font-family: "微软雅黑";
+		/*background:gold;*/
+	}
+	.head ul li a{
+		display:none;
+	}
+	.head .h_img2{
+		width:28px;
+		height:28px;
+		position:absolute;
+		z-index:2;
+		top:50%;
+		margin-top:-14px;
+		right:0;
+		background:url('../imgs/manu.svg'); 
+	}

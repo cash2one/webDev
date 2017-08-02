@@ -1,0 +1,21 @@
+<!--gugong.wxml-->
+<import src="../tianrun/tianrun.wxml" />
+<text class="head">¹Ê¹¬¡ªÌ´ŒmÌâ</text>
+<text class="date">2017/06/13</text>
+<view class="gugImg">
+  <image src="http://www.netjc.cn/xcx/case/gug/gg1.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg2.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg3.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg4.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg5.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg6.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg7.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg8.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg9.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg10.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg11.jpg" background-size="cover"></image>
+  <image src="http://www.netjc.cn/xcx/case/gug/gg12.jpg" background-size="cover"></image>
+</view>
+<!-- ÁôÑÔ°å -->
+<include src="../pulish/pulish.wxml" />
+<!-- ÁôÑÔ°å... -->

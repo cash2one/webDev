@@ -1,0 +1,36 @@
+<!--shangmei.wxml-->
+<text class="head">【品牌传播案例详情】尚美世嘉—高端模压</text>
+<text class="date">2017/06/13</text>
+<view class="Poem">
+  <text>雕琢时光 定制生活</text>
+</view>
+<text class="Para">即便高级定制对于大多数人不可企及，它仍然被推崇着，占据了报刊的头条新闻和专栏，只因那是滋养新思想的宝地，只因它代表着艺术与时尚所迸发出的火花。</text>
+<text class="Para">体验尚美世嘉，您将被现代工业设计的创造力所惊艳。当家装、橱柜遇见创意设计，生活的魅力瞬间超越您的想象。</text>
+<text class="Para">我们为您呈现和带来的，不仅是一件家具、一块门板、一条细微的装饰带，根据每个家庭装 修风格的不同，能为您提供的是一整套完善的家居装饰解决方案。无论面积大小、无论现代或经典、实用或美观，在这里都可以找到一款符合您心意的产品。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/sm/sm1.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/sm/sm2.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/sm/sm3.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/sm/sm4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/sm/sm5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/sm/sm6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/sm/sm7.jpg" background-size="cover"></image>
+</view>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+<!-- <include src="/utils/pulish.wxml" /> -->
+<!-- 留言板... -->

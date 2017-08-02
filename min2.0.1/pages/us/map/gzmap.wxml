@@ -1,0 +1,5 @@
+<!--map.wxml-->
+<!-- 地图 -->
+<map id="gzmap" longitude="{{longitude3}}" latitude="{{latitude3}}" scale="{{scale}}" controls="{{controls}}" markers="{{markers}}" polyline="{{polyline}}" bindcontroltap="controltap" bindmarkertap="markertap" bindregionchange="regionchange" bindtap="maptap" show-location></map>
+<text class="mapTxt">广州市广园路科华街251号乐天创意园</text>
+<!-- 地图... -->

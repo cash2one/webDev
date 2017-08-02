@@ -1,0 +1,221 @@
+<!--case.wxml-->
+<!--头部-->
+<!--轮播图-->
+<include src="/utils/slideshow.wxml" />
+<!--轮播图...-->
+<!--头部...-->
+<!--菜单-->
+<view class="caseMenu">
+  <view class="caseMenuList" bindtap="swichNav">
+    <button class="caseMenuListBtn {{currentTab==0 ? 'on' : ''}}" data-current="0">推荐</button>
+  </view>
+  <view class="caseMenuList {{currentTab==1 ? 'on' : ''}}" bindtap="swichNav">
+    <button class="caseMenuListBtn {{currentTab==1 ? 'on' : ''}}" data-current="1">品牌全案</button>
+  </view>
+  <view class="caseMenuList {{currentTab==2 ? 'on' : ''}}" bindtap="swichNav">
+    <button class="caseMenuListBtn {{currentTab==2 ? 'on' : ''}}" data-current="2">标志&VIS</button>
+  </view>
+  <view class="caseMenuList {{currentTab==3 ? 'on' : ''}}" bindtap="ppTap">
+    <button class="caseMenuListBtn {{currentTab==3 ? 'on' : ''}}" data-current="3">画册物料</button>
+  </view>
+</view>
+<!--菜单...-->
+<!--case-->
+<view class="caseBox">
+  <!--推荐-->
+  <view class="caseReco case {{currentTab==0 ? 'show' : ''}}" bindtap="swichNav">
+    <!--1-->
+    <view class="recommed">
+      <view class="recommedImg">
+        <image src="http://www.netjc.cn/xcx/case/tr.jpg" catchtap="trTap"></image>
+        <image src="http://www.netjc.cn/xcx/case/gg.jpg" catchtap="ggTap"></image>
+      </view>
+      <view class="recommedTxt">
+        <view class="recommedTxtLf" catchtap="trTap">
+          <text class="recommedTxtHd">天润木窗</text>
+          <text class="recommedTxtIn">传递高品质，健康舒适家居形象</text>
+        </view>
+        <view class="recommedTxtRt" catchtap="ggTap">
+          <text class="recommedTxtHd">故宫—檀宮题</text>
+          <text class="recommedTxtIn">用品味祭奠历史</text>
+        </view>
+      </view>
+    </view>
+    <!--1...-->
+    <!--2-->
+    <view class="recommed">
+      <view class="recommedImg">
+        <image src="http://www.netjc.cn/xcx/case/lk.jpg" catchtap="lkTap"></image>
+        <image src="http://www.netjc.cn/xcx/case/bs.jpg" catchtap="bsTap"></image>
+      </view>
+      <view class="recommedTxt">
+        <view class="recommedTxtLf" catchtap="lkTap">
+          <text class="recommedTxtHd">蓝卡门窗</text>
+          <text class="recommedTxtIn">用品牌造梦的空间</text>
+        </view>
+        <view class="recommedTxtRt" catchtap="bsTap">
+          <text class="recommedTxtHd">博士屋</text>
+          <text class="recommedTxtIn">塑造实木定制家居</text>
+        </view>
+      </view>
+    </view>
+    <!--2...-->
+    <!--3-->
+    <view class="recommed">
+      <view class="recommedImg">
+        <image src="http://www.netjc.cn/xcx/case/nf.jpg" catchtap="nfTap"></image>
+        <image src="http://www.netjc.cn/xcx/case/bj.jpg" catchtap="bjTap"></image>
+      </view>
+      <view class="recommedTxt">
+        <view class="recommedTxtLf" catchtap="nfTap">
+          <text class="recommedTxtHd">南方印象</text>
+          <text class="recommedTxtIn">柔美视觉，刚毅品牌</text>
+        </view>
+        <view class="recommedTxtRt" catchtap="bjTap">
+          <text class="recommedTxtHd">碧江家居</text>
+          <text class="recommedTxtIn">为每一个人提供最好的家居环境</text>
+        </view>
+      </view>
+    </view>
+    <!--3...-->
+  </view>
+  <!--推荐...-->
+  <!--VI设计-->
+  <view class="caseVI case {{currentTab==1 ? 'show' : ''}}" bindtap="swichNav">
+    <!--1-->
+    <view class="recommed">
+      <view class="recommedImg">
+        <image src="http://www.netjc.cn/xcx/case/tr.jpg" catchtap="trTap"></image>
+        <image src="http://www.netjc.cn/xcx/case/cp.jpg" catchtap="cpTap"></image>
+      </view>
+      <view class="recommedTxt">
+        <view class="recommedTxtLf" catchtap="trTap">
+          <text class="recommedTxtHd">天润木窗</text>
+          <text class="recommedTxtIn">传递高品质，健康舒适家居形象</text>
+        </view>
+        <view class="recommedTxtRt" catchtap="cpTap">
+          <text class="recommedTxtHd">川普</text>
+          <text class="recommedTxtIn">赋予“家”最奔放的可能</text>
+        </view>
+      </view>
+    </view>
+    <!--1...-->
+    <!--2-->
+    <view class="recommed">
+      <view class="recommedImg">
+        <image src="http://www.netjc.cn/xcx/case/jf.jpg" catchtap="jfTap"></image>
+        <image src="http://www.netjc.cn/xcx/case/bs.jpg" catchtap="bsTap"></image>
+      </view>
+      <view class="recommedTxt">
+        <view class="recommedTxtLf" catchtap="jfTap">
+          <text class="recommedTxtHd">瑾梵国际</text>
+          <text class="recommedTxtIn">如鸢尾花般美艳</text>
+        </view>
+        <view class="recommedTxtRt" catchtap="bsTap">
+          <text class="recommedTxtHd">博士屋</text>
+          <text class="recommedTxtIn">塑造实木定制家居</text>
+        </view>
+      </view>
+    </view>
+    <!--2...-->
+    <!--3-->
+    <view class="recommed">
+      <view class="recommedImg">
+        <image src="http://www.netjc.cn/xcx/case/nf.jpg" catchtap="nfTap"></image>
+        <image src="http://www.netjc.cn/xcx/case/bj.jpg" catchtap="bjTap"></image>
+      </view>
+      <view class="recommedTxt">
+        <view class="recommedTxtLf" catchtap="nfTap">
+          <text class="recommedTxtHd">南方印象</text>
+          <text class="recommedTxtIn">柔美视觉，刚毅品牌</text>
+        </view>
+        <view class="recommedTxtRt" catchtap="bjTap">
+          <text class="recommedTxtHd">碧江家居</text>
+          <text class="recommedTxtIn">为每一个人提供最好的家居环境</text>
+        </view>
+      </view>
+    </view>
+    <!--3...-->
+    <!--4-->
+    <view class="recommed">
+      <view class="recommedImg">
+        <image src="http://www.netjc.cn/xcx/case/lk.jpg" catchtap="lkTap"></image>
+        <image src="{{null}}" catchtap="null"></image>
+      </view>
+      <view class="recommedTxt">
+        <view class="recommedTxtLf" catchtap="lkTap">
+          <text class="recommedTxtHd">蓝卡门窗</text>
+          <text class="recommedTxtIn">用品牌造梦的空间</text>
+        </view>
+        <view class="recommedTxtRt" style="border:0;" catchtap="null">
+          <text class="recommedTxtHd"></text>
+          <text class="recommedTxtIn"></text>
+        </view>
+      </view>
+    </view>
+    <!--4...-->
+  </view>
+  <!--VI设计...-->
+  <!--画册设计-->
+  <view class="casePain case {{currentTab==2 ? 'show' : ''}}" bindtap="swichNav">
+    <!--1-->
+    <view class="recommed">
+      <view class="recommedImg">
+        <image src="http://www.netjc.cn/xcx/case/mq.jpg" catchtap="mqTap"></image>
+        <image src="http://www.netjc.cn/xcx/case/gg.jpg" catchtap="ggTap"></image>
+      </view>
+      <view class="recommedTxt">
+        <view class="recommedTxtLf">
+          <text class="recommedTxtHd">梦倩奇</text>
+          <text class="recommedTxtIn">有木、有自然、有生命、有情怀</text>
+        </view>
+        <view class="recommedTxtRt">
+          <text class="recommedTxtHd">故宫—檀宮题</text>
+          <text class="recommedTxtIn">用品味祭奠历史</text>
+        </view>
+      </view>
+    </view>
+    <!--1...-->
+    <!--2-->
+    <view class="recommed">
+      <view class="recommedImg">
+        <image src="http://www.netjc.cn/xcx/case/hh.jpg" catchtap="hhTap"></image>
+        <image src="http://www.netjc.cn/xcx/case/hs.jpg" catchtap="hsTap"></image>
+      </view>
+      <view class="recommedTxt">
+        <view class="recommedTxtLf">
+          <text class="recommedTxtHd">瀚海美邦</text>
+          <text class="recommedTxtIn">如旅行般感受不同的产品风格</text>
+        </view>
+        <view class="recommedTxtRt">
+          <text class="recommedTxtHd">华居隆盛阁</text>
+          <text class="recommedTxtIn">横空出世莽昆仑，阅尽人间春色</text>
+        </view>
+      </view>
+    </view>
+    <!--2...-->
+    <!--3-->
+    <view class="recommed">
+      <view class="recommedImg">
+        <image src="http://www.netjc.cn/xcx/case/ga.jpg" catchtap="gaTap"></image>
+        <image src="http://www.netjc.cn/xcx/case/sm.jpg" catchtap="smTap"></image>
+      </view>
+      <view class="recommedTxt">
+        <view class="recommedTxtLf">
+          <text class="recommedTxtHd">国奥</text>
+          <text class="recommedTxtIn">看得见的绿色新鲜</text>
+        </view>
+        <view class="recommedTxtRt">
+          <text class="recommedTxtHd">尚美世嘉</text>
+          <text class="recommedTxtIn">雕琢时光，定制生活</text>
+        </view>
+      </view>
+    </view>
+    <!--3...-->
+  </view>
+  <!--画册设计...-->
+  <!--品牌策划-->
+  <!-- <view class="caseBran case {{currentTab==3 ? 'show' : ''}}" bindtap="swichNav"></view> -->
+  <!--品牌策划...-->
+</view>
+<!--case...-->

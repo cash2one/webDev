@@ -1,0 +1,12 @@
+<!--轮播图-->
+<swiper class="swiper-box" indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+  <block wx:for="{{imgUrls}}" wx:key="{{index}}">
+    <swiper-item>
+      <navigator url="{{item.link}}" hover-class="navigator-hover">
+        <image src="{{item.url}}" class="slide-image" />
+        <text class="slideInto">{{item.into}}</text>
+      </navigator>
+    </swiper-item>
+  </block>
+</swiper>
+<!--轮播图...-->

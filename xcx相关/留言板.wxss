@@ -1,0 +1,74 @@
+
+/* head */
+
+.publishListHead {
+  width: 100%;
+  height: 80rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.publishHeadUser {
+  height: 60rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.publishHeadUser image {
+  width: 50rpx;
+  height: 60rpx;
+  display: block;
+}
+
+.publishHeadUserInfo {
+  height: 60rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 10rpx;
+}
+
+.publishHeadUser text {
+  height: 30rpx;
+  line-height: 30rpx;
+  display: block;
+  font-size: 24rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+.publishHeadId {
+  color: #656565;
+}
+
+.publishHeadDate {
+  color: #bfbfbf;
+}
+
+.publishHeadReply {
+  height: 60rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.publishHeadReply image {
+  width: 42rpx;
+  height: 42rpx;
+  display: block;
+}
+
+.publishHeadReply text {
+  width: 80rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  text-align: center;
+  display: block;
+  color: #999;
+  font-size: 24rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+/* head... */

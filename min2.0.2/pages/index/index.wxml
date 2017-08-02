@@ -1,0 +1,99 @@
+<!--index.wxml-->
+<!--轮播图-->
+<include src="/utils/slideshow.wxml" />
+<!--轮播图...-->
+<!--搜索框-->
+<view class="vInputBox">
+  <view class="vInput">
+    <icon type="search" size="20" />
+    <input type="text" placeholder="请输入搜索内容" placeholder-style="color:#888888;font-size:28rpx;" bindfocus="searchInput" />
+  </view>
+</view>
+<!--搜索框...-->
+<!--案例详情展示-->
+<view class="indexCase">
+  <view class="indexCaseItem" bindtap="indexCaseItem">
+    <image class="indexCaseItemImg" src="http://www.netjc.cn/xcx/case/mq.jpg" background-size="cover"></image>
+    <view class="indexCaseWords">
+      <text class="indexCaseWordsTit">【爱丽丝之旅】</text>
+      <text class="indexCaseWordsTit">梦倩奇 — 全屋画册</text>
+      <text class="indexCaseWordsIntro">这本画册有木、有自然、有生命、有情怀。</text>
+    </view>
+  </view>
+  <view class="indexCaseItem" bindtap="indexCaseItem">
+    <image class="indexCaseItemImg" src="http://www.netjc.cn/xcx/case/gg.jpg" background-size="cover"></image>
+    <view class="indexCaseWords">
+      <text class="indexCaseWordsTit">【半生修行】</text>
+      <text class="indexCaseWordsTit">故宫 — 北京檀宮题</text>
+      <text class="indexCaseWordsIntro">用品味祭奠历史</text>
+    </view>
+  </view>
+  <view class="indexCaseItem" bindtap="indexCaseItem">
+    <image class="indexCaseItemImg" src="http://www.netjc.cn/xcx/case/tr.jpg" background-size="cover"></image>
+    <view class="indexCaseWords">
+      <text class="indexCaseWordsTit">【开启美好】</text>
+      <text class="indexCaseWordsTit">天润木窗 — VI升级</text>
+      <text class="indexCaseWordsIntro">传递高品质，健康舒适的家居形象</text>
+    </view>
+  </view>
+  <view class="indexCaseItem" bindtap="indexCaseItem">
+    <image class="indexCaseItemImg" src="http://www.netjc.cn/xcx/case/bj.jpg" background-size="cover"></image>
+    <view class="indexCaseWords">
+      <text class="indexCaseWordsTit">【必将满意】</text>
+      <text class="indexCaseWordsTit">碧江家居 — VI重塑</text>
+      <text class="indexCaseWordsIntro">为每一个人提供最好的办公、生活环境</text>
+    </view>
+  </view>
+</view>
+<!--案例详情展示...-->
+<!--新闻动态-->
+<text class="newstitle">新闻动态</text>
+<view class="news">
+  <text class="header">【前进寸尺 受彼之恩】
+  叶晟荣品牌设计顾问机构北上广战略布局完成</text>
+  <text>随着整个行业竞争日益激烈，品牌是穿越竞争的喧嚣、打动人们心灵和占领认知的最有效方法。为了更好的服务于家居企业，2017年年中，叶晟荣团队实现了又一质的飞跃。</text>
+  <text>汉叶联姻</text>
+  <text>17年5月，各自在家居界深耕十余载的广东汉业传媒与叶晟荣品牌设计顾问达成战略合作——专注为泛家居企业提供品牌战略咨询、品牌塑造、品牌视频营销、品牌落地等整合服务。此次合作标志着两大机构都将整合双方优势资源，致力协助家居企业品牌主创造家居界的品牌传奇。</text>
+  <view class="newsItem">
+    <image class="newsItemOne" src="http://www.netjc.cn/xcx/index/3.jpg" background-size="cover"></image>
+    <image class="newsItemTwo" src="http://www.netjc.cn/xcx/index/4.jpg" background-size="cover"></image>
+    <image class="newsItemThr" src="http://www.netjc.cn/xcx/index/5.jpg" background-size="cover"></image>
+  </view>
+  <text>三线全开</text>
+  <text>17年6月，叶晟荣团队正式入驻广州地区，成立广州分部，为更多家居企业品牌战略提供更高效的服务。至此，叶晟荣团队实现北上广战略布局完美呈现。</text>
+  <image class="newsImg" src="http://www.netjc.cn/xcx/index/0.jpg" background-size="cover"></image>
+  <text>叶晟荣品牌设计顾问机构成立于中国家居行业爆棚期的新世纪初，至今已发展成为中国最为专业的综合性品牌战略咨询和设计公司之一。</text>
+  <text>2014年6月，叶晟荣品牌设计顾问机构上海分公司成立。</text>
+  <text>2017年6月，叶晟荣品牌设计顾问机构在广州开启了新的篇章。</text>
+  <text>不同于管理咨询公司和泛设计公司，叶晟荣团队专注于为泛家居企业提供品牌战略咨询、品牌塑造及品牌营销整合服务。协助企业由产品营销快速过渡至品牌营销模式，提升产品或服务市场溢价，从而引导泛家居企业快速、可持续发展。</text>
+  <image class="newsImg" src="http://www.netjc.cn/xcx/index/1.jpg" background-size="cover"></image>
+  <text>叶晟荣团队至今已为全国范围1000+泛家居企业提供了相关服务，凭借多年行业深入研究成果及众多案例详情实践经验，为企业达成具有市场竞争力及可持续发展的品牌投资表现，超越竞争对手，用品牌驱动企业发展，我们坚信品牌的力量！</text>
+  <image class="newsImg2" src="http://www.netjc.cn/xcx/index/2.jpg" background-size="cover"></image>
+  <text class="center">性感品牌是知性的、感性的</text>
+  <text class="center">是外在与内在的综合表现</text>
+  <text class="center">能引起价值观趋同的受众共鸣</text>
+  <text class="center">进而诱导其购买决策</text>
+  <text>所以，一个真正有影响力的品牌不仅是价值主张和销售产品或服务，更是基于价值与产品或服务与目标受众之间的情感交流。做感性企业，创性感品牌，它是真正承载品牌与目标受众双方的基础，并用以规划整体品牌营销体系。</text>
+  <text class="center">如果你想树立强势泛家居行业品牌。</text>
+  <text class="center">那么叶晟荣团队一定能帮到你！</text>
+  <text class="center">我们不是矫揉造作、满口术语的创作类型。</text>
+  <text class="center">我们会随时聆听你的想法，结合我们的行业经验。</text>
+  <text class="center">提供真正能帮你解决问题且可落地的服务！</text>
+</view>
+<view class="address">
+  <text class="center">北京总部</text>
+  <text>地址：北京市大兴区绿地兴贸中心2号楼1单元17层</text>
+  <text>电话：13520154238 / 13581628879</text>
+  <text class="center">
+    上海分部
+  </text>
+  <text>地址：上海市闵行区中春路7615号</text>
+  <text>电话：18512187274</text>
+  <text class="center">
+    广州分部
+  </text>
+  <text>地址：广州市广园路科华街251号乐天创意园</text>
+  <text>电话：13929590020</text>
+</view>
+<image class="newsImg3" src="http://www.netjc.cn/xcx/logo.gif" background-size="cover"></image>
+<!--新闻动态...-->

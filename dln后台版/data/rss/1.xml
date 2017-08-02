@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>关于我们</title>
+<link>http://localhost:8080/deluoni/a/link/</link>
+<description>关于我们</description>
+<language>zh-cn</language>
+<generator><![CDATA[Copyright &amp;copy; 德洛尼家居, Delonne home AlRights Reserved.]]></generator>
+<webmaster>desdev@vip.qq.com</webmaster>
+<item>
+    <title><![CDATA[{dede:招聘启事 标题='织梦大家庭新年招募第一波'}]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0408/106.html</link>
+    <description><![CDATA[2010年，新一年，新征程……织梦大家庭招募能够共同创业的新伙伴。首要特点：织梦需要的是创业伙伴，而非普通员工。织梦是一个大家共同的创业平台！繁华浮躁的时代，我们需要的是『不浮躁』的人。]]></description>
+    <pubDate>2010-04-08</pubDate>
+    <category>总裁致辞</category>
+    <author>织梦官方</author>
+    <comments>织梦官方</comments>
+</item>
+<item>
+    <title><![CDATA[DedeCMS V5.6 开发日志及新建议提交贴]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/92.html</link>
+    <description><![CDATA[说明： ■为已经升级或修正的功能 □表示需多处同时处理的复杂功能或待验证功能 [新增] ■ 1.搜索关键词批量管理功能; □ 2.会员中心更换全新UI界面,让用户中心更亲切方便; ■ 2.1 会员中心增加好友动态功能; ■ 2.2 添加会员心情功能(用户可以在会员中心设]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>织梦官方</author>
+    <comments>织梦官方</comments>
+</item>
+<item>
+    <title><![CDATA[在Dreamweaver中为插入的Flash添加透明]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/72.html</link>
+    <description><![CDATA[Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Flash添加透明等参数有两种方法。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver8创建自定义代码片段的方法]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/71.html</link>
+    <description><![CDATA[一个好的“偷懒”方法，就好比充满困难的路途中出现一盏明灯，简化了好多繁杂的工作，让你有更多精力做其他事情，做的更顺手。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver方便快捷编辑网页标签]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/70.html</link>
+    <description><![CDATA[不知各位是否有手写代码的习惯。例如：要在一个单元格插入一段CSS代码，或者一段Javascript代码，怎么做才比较快捷方便呢？ 虽然Dreamweaver已经为我们提供了代码视图，可是必竟还要手工去查找，还要来回地切换。虽然也可以用代码视图与编辑视图并存的]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[用Dreamweaver合理为为网页进行优化]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/69.html</link>
+    <description><![CDATA[我们为了优化网页、加快网页下载速度，除了对图片进行优化之外，还需对网页其他各个元素进行优化。在网页编织过程中如能充分利用编辑工具，也可以在网页制作中达到优化目的。 下面是Dreamweaver中的一些优化技法: 合理调用CSS 进行网页设计时，运用]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[使用Dreamweaver来详细了解CSS的多样性]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/68.html</link>
+    <description><![CDATA[说明：√属性继承 ×不继承 [ ]为适应元素类型 无[ ]标出为所有元素字体√Font-family√Font-size 9 10 12 14 16 18 24 36 xx-small x-small small medium large x-large xx-large smaller larger√Color√Font-style normal italic obliqu]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[网页禁止右键菜单及禁止全选代码]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/67.html</link>
+    <description><![CDATA[script language=JavaScriptdocument.oncontextmenu=new Function(event.returnValue=false;);document.onselectstart=new Function(event.returnValue=false;);/script 很好用!]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver网页制作教程：层及其应用]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/66.html</link>
+    <description><![CDATA[层（Layer）是一种 HTML 页面元素，您可以将它定位在页面上的任意位置。层可以包含文本、图像或其它 HTML 文档。层的出现使网页从二维平面拓展到三维。可以使页面上元素进行重叠和复杂的布局。首先，请看下图： 我们首先来做一个层 1、 在「窗口」菜单]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[新手入门：利用DW8掌握网页代码基本格式]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/65.html</link>
+    <description><![CDATA[说到代码，有人会问：不懂代码能不能制作网页？答案是肯定的。有些人不懂代码同样能制作出非常好的网页。 在Dreamweaver的设计窗口中你每增加或改变一项内容，会自动生成相应代码。那又产生另一个问题：为什么要了解或者熟悉代码呢？可以说熟悉代码将会使你]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver cs3新功能Spry效果试用]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/64.html</link>
+    <description><![CDATA[Dreamweaver CS3集成了AJAX框架Spry，使得我最近对Spry感上了兴趣。 再次说明下Spry是Adobe公司推出的AJAX框架，所谓AJAX框架，就先谈目前流行的Web2.0. 1，这些Web2.0站点从页面形式上来看，页面与浏览者的交互很时尚、也很人性化。比如注册信息时输]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[通过Dreamweaver设计网页时组织CSS的建议]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/63.html</link>
+    <description><![CDATA[一般地讲，样式表（style sheet）就是控制网页内容外观的格式化的规则的集合。可以以三种不同的方式在你的页面中使用CSS：]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[在Dreamweaver8.0.2中为插入的Flash添加透明或其他参数]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/62.html</link>
+    <description><![CDATA[Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Fl]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver CS3新功能]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/61.html</link>
+    <description><![CDATA[随着Adobe Dreamweaver CS3的预销我们开始了新一轮的Dreamweavr学习，那么让我们先了解下Dreamweaver CS3都有哪些新功能：]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver中加入竖直线的问题]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/60.html</link>
+    <description><![CDATA[网页制作时经常用到1个像素高或宽的细线条来修饰，可以使网页的布局更加清晰，整体更加美观。由于一直习惯使用Dreamweaver编]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver基础教程：层及其应用]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/59.html</link>
+    <description><![CDATA[层(Layer)是一种 HTML 页面元素，您可以将它定位在页面上的任意位置。层可以包含文本、图像或其它 HTML 文档。层的出现使网页]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver8轻松实现文本的段落缩进]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/58.html</link>
+    <description><![CDATA[如何在Drwamweaver中实现文本的段落缩进，也就成了网页制作中的一大难题。针对这一问题，本文为大家提供以下几种解决办法。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[插入的Flash添加透明或其他参数]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/57.html</link>
+    <description><![CDATA[Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Flash添加透明等参数有两种方法。内容来自中国站长资讯网(www.chinahtml.com)● 用Dreamweaver的属性面板为插入的Flash添加透明属]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Dreamweaver cs3 彩蛋]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/56.html</link>
+    <description><![CDATA[随着ADOBE CS3系列产品的亮相，我们最关注的Dreamweaver CS3也获得了最新的消息。首先先来看看传统的Dreamweaver彩蛋是否还在。内容来自中国站长资讯网(www.chinahtml.com)第一个Dreamweaver彩蛋就是：1，在网页中插入一张图像；2，打开属性面板，在图像的缩]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[用 Dreamweaver 8 搞定web标准]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/55.html</link>
+    <description><![CDATA[如果您正在读这篇文章，您很可能是已经对 Web 标准有了一定的兴趣，并且对用 DW ( Dreamweaver 的简称)来构建的站点中标准的应用非常好奇。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[使用Dreamweaver批量做web网页]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/dreamweaver/2010/0407/54.html</link>
+    <description><![CDATA[做网站，麻烦在更新，特别是大规模更新，工作量非常大。真不知那些创意不断而又勤奋的“站长”，隔三岔五将网站来个“大换血”，是怎么忙过来的。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>总裁致辞</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[你应当了解的5个CSS3新技术]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/33.html</link>
+    <description><![CDATA[CSS是众所周知且应用广泛的网站样式语言，在它的版本三(CSS3)计划中，新增了一些能够节省时间的特性。尽管只有当前最新了浏览器版本才能支持这些 效果，但了解它们还是必须且很有趣味性的。暴风彬彬将在这篇文章向大家展示CSS中的5个有趣的新技术:圆角、个别]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[20个让你学习并精通CSS的网站]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/32.html</link>
+    <description><![CDATA[CSS的学习过程既可以说简单又可以说是复杂。CSS的语法比较简单，但CSS的应用中有一些概念(一可以说是原理)还是很难掌握的。今天暴风彬彬 向你推荐20个出色的CSS技术类(英语)网站帮你更好的理解和掌握CSS，其中包括各种各样的网站，从博客到清单风格列表甚至]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[使用CSS为图片添加更多趣味的5种方法]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/31.html</link>
+    <description><![CDATA[今天我们将向大家分享一些为你平淡乏味的图片添加更多趣味情调的简单技巧。使用Photoshop为每个图片添加某种样式虽然可行，但会是相当乏味且困难的长久工作。下面要介绍的CSS技巧将帮助你从痛苦中解脱出来！如果你也有自己独到的CSS技巧，希望能一同分享。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[精选15个国外CSS框架]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/30.html</link>
+    <description><![CDATA[什么是css框架 实际上还是让我们从框架说起吧。 框架就是一个你可以用于你的网站项目的基本的概念上的结构体。 css框架通常只是一些css文件的集合，这些文件包括基本布局、表单样式、网格或简单结构、以及样式重置。比如： typography.css基本排版规则 grid.]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[简洁纯净的CSS表单设计实例]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/29.html</link>
+    <description><![CDATA[很多CSS爱好者不喜欢HTML表格，尤其是在制作表单的时候，虽然现在已经是XHTML+CSS的年代，但表单的设计大多还在采用table来布局。那 么，有没有更好的使用纯语义化XHTML+CSS设计表单方法呢？今天让我们一起来尝试这种更符合语义化的方法来代替Table嵌套的表]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[为今后的项目制作空白CSS模板文件]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/28.html</link>
+    <description><![CDATA[如果你曾经收藏过许多关于CSS的最佳实践但还没开始利用它们，那么这篇文章将帮助你制作一个很好且很有组织的CSS文件来应用于一些CSS最佳实践。在 这里我将为为我的下一个项目制作一个基本的CSS模板文件。使用标准的重设(Reset)方法，定义一些基本的方便的类]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[用CSS设计你的搜索框]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/27.html</link>
+    <description><![CDATA[今天我将介绍一下如何使用CSS中的背景图片来设计你的搜索框。之前我使用别的方法来实现我的表单和搜索框，但是这种方法看起来会更容易些，所以我想将它与感兴趣的朋友分享。 View Demo 原始方式 首先来让我们看看我的原始的使用input type=image src=image_u]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[CSS 中的黄金分割率]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/26.html</link>
+    <description><![CDATA[这是一位叫 Christos Chiotis 的希腊 Web 设计师发表在 CssGlobe 的一篇文章，讲述了黄金分割率在 CSS 中的应用。黄金分割率是一个应用广泛的数学常数，大约为 1.6180339887。黄金分割率用在 Web 设计中，可以为设计带来更多视觉上的和谐。 在一个简单的两栏]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[精选30个优秀的CSS技术和实例]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/25.html</link>
+    <description><![CDATA[今天，我们为大家收集精选了 30个使用纯CSS 完成的强大实践的 优秀CSS技术和实例 ，您将在这里发现很多与众不同的技术，比如:图片集、阴影效果、可扩展按钮、菜单等这些实例都是使用纯CSS和HTML实现的。 单击每个实例的标题可以被转向到该技术实例的相关教程]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[30个基于CSS的导航和按钮优秀设计教程]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/24.html</link>
+    <description><![CDATA[在当今标准的Web设计中，CSS是最重要的组成部分。为了让大家更好的理解如何通过CSS来设计，彬Go为大家收集了30个基于CSS的导航菜单 和按钮的CSS设计教程，通过这些教程，您可以在您今后的项目中更方便的直接使用或参考，当然也可以用作平时的实践练习。希望]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[img图片元素下多余空白解决方案]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/23.html</link>
+    <description><![CDATA[在进行页面的DIV+CSS排版时，遇到IE6（当然有时Firefox下也会偶遇）浏览器中的图片元素img下出现多余空白的问题绝对是常见的对於 该问题的解决方法也是「见机行事」，根据原因的不同要用不同的解决方法，这里把解决直接把解决image图片布局下边的多余空隙的B]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[看看你是哪个等级的CSS开发人员]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/22.html</link>
+    <description><![CDATA[CSS? Isn]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[5种方法立刻写出更好的CSS代码]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/div-css/2010/0407/21.html</link>
+    <description><![CDATA[当然，每个人都可以编写CSS代码，甚至你现在已经让它为你的项目工作了。但是CSS还可以更好吗？开始用这5个Tips改进你的CSS吧！ 1.重置 首先，很认真的告诉你， 总是要重置某些分类 。无论你是使用 Eric Meyer Reset 、 YUI Reset 或者你自己编写的重置代码，]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>品牌诠释</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[HTML基础教程：学习掌握HTML 元素]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/20.html</link>
+    <description><![CDATA[HTML文档是由HTML元素构成的文本文件。HTML元素是通过使用HTML标签进行定义的。HTML标签 HTML标签是用来标记HTML元素的。 HTML标签被和符号包围。 这些包围的符号叫作。 HTML标签是成对出现的。例如b和/b。 位于起始标签和终止标签之]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[HTML基础知识：学习掌握HTML 标准属性]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/19.html</link>
+    <description><![CDATA[HTML标签拥有属性。每个标签的特殊属性均被列于每个标签描述之下。这里列出的属性是通用于每个标签的核心属性和语言属性（有个别例外）：核心属性 (Core Attributes)以下标签不提供下面的属性：base、head、html、meta、param、script、style以及title元素。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[浅谈XHTML（可扩展HTML）标准中CDATA]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/18.html</link>
+    <description><![CDATA[近来，随着XHTML（可扩展HTML）标准的出现，script/标签也经历了一些改变。该标签不再用language特性，而用type特性声明内嵌代码或要加入的外部文件的mime类型，JavaScript的mime类型是text/javascript。例如：html head]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[快速精通网页框架FRAME]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/17.html</link>
+    <description><![CDATA[FRAME（框架）是Web上经常会看到的页面结构。使用可视Web开发工具（比如Dreamweaver或者Frontpage），虽然可以在 WYSIWYG环境中通过简单的鼠标托拽完成FRAME的构建，但是要实现真正细致甚至强大的功能，仔细理解FRAME的代码结构至关重要！你将发现， FRAME原]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[使用XHTML按标准重构网站]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/16.html</link>
+    <description><![CDATA[我们曾经为本节撰写的标题是：“XHTML:简单的规则，容易的方针。”原因之一是，本节讨论的规则和方针是简单和容易的。原因之二是，一本简单和容易的WEB设计图书，就像超级市场的新式的免费商品一样，虽然常见却可以有效地吸引人的眼球，这样的东西可以刺激人]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[网页文本排版知识：为正确的内容使用恰当的标签]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/15.html</link>
+    <description><![CDATA[在制作网页时，文本内容是必不可少的！那么我们该如何对网页文本进行正确排版呢？当段落标签p应该使用在段落的时候还有许多滥用换行标签br的情况，p用于表现段落是公认的。基于同样的逻辑，很多标签应该被用来定义确定的文本元素，比如引用，缩写和计算机代码]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[HTML网页初学者教程：讲解网页标题Title]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/14.html</link>
+    <description><![CDATA[我们制作的每一个HTML网页都应该有文档标题。那么到底如何设置标题呢？这个教程就作为网页初学者的入门吧！给你的文档增加一个标题，按照下面改变你的代码：!DOCTYPE html PUBLIC -//W3C//DTD XHTML 1.0 Strict//ENhttp://www.w3.org/]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[新手学习老知识（一）HTML语言基础]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/13.html</link>
+    <description><![CDATA[近两年来，许多公司开发出了图形化的HTML开发工具，使得网页的制作变得非常简单。如微软公司推出的 Microsoft FrontPage， Adobe公司推出的 Adobe Pagemill， Micromedia公司推出的Dreamweaver等编辑工具，都被称为“所见即所得”的网页制作工具。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[新手学习老知识（二）HTML用好活动字幕标记marquee]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/12.html</link>
+    <description><![CDATA[活动字幕，也称为滚动看板、滚动字幕。活动字幕的使用使得整个网页更有动感，显得很有生气。现在的网站中也越来越多地使用活动字幕来加强网页的互动性。用Javascript编程可以实现活动字幕效果；用Dreamweaver的图层再用其时间线功能可以做出非常漂亮的滚动看]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[新手学习老知识（三）HTML教程用好超级链接标记A]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/11.html</link>
+    <description><![CDATA[超级链接 标记代表一个链接点，是英文anchor（锚点）的简写。它的作用是把当前位置的文本或图片连接到其他的页面、文本或图像，这已是众所周知了，但关于它的语法结构可能有点鲜为人知，而要用活它则必须了解其语法结构。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[表格中单元格之间分隔线的隐藏方法]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/10.html</link>
+    <description><![CDATA[隐藏分隔线的诀窍在于rules，察看这三个表格的源代码，我们可以看到表格标签中都有rules。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[HTML教程：建立超级连接]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/9.html</link>
+    <description><![CDATA[tabbing浏览不或不能使用指点设备的用户可以用快捷键tab键来打开连接，并且本身也要有逻辑tab顺序。尽管HTML是线性的，tabindex属性允许你定义它快捷键们的顺序，而且这些逻辑tab应该可以自动落入自己位置。快捷键快捷键可以通过键盘的特定按键进行更方]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[介绍span和div标签的使用]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/8.html</link>
+    <description><![CDATA[鉴于HTML初级教程的目的只是教授HTML的骨架元素，这个中级教程增加一些骨肉，它们不应该特别的难，但可以进一步增进我们对HTML的理解，使我们能多做一些更有用的事情。HTML只是赋予内容的手段，大部分HTML标签都有其意义（标签p创建段落，h1标签创建标题等等]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[对于初学者不错的XHTML教程]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/7.html</link>
+    <description><![CDATA[在这个教程里，你将学到HTML和XHTML之间的不同，以及如何将HTML转换为XHTML。毕竟XHTML是发展的方向，所以我觉得该教程有必要在本站上发布。我感觉要是你想使用标准还是最好先学HTML，因为比较简单，然后再来看该教程。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[网页制作初学者：认识XHTML DHTML SHTML的区别]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/6.html</link>
+    <description><![CDATA[我们经常会在一个技术性网站或BBS见到这三个东东：XHTML DHTML SHTML，它们到底是怎么回事呢？我们看下面的说明与讲解。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[实例学习网页制作中常用的网页表单的应用]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/html/2010/0407/5.html</link>
+    <description><![CDATA[说实话，无论是asp,php还是jsp进行网络编程的时候，都离不开和用户的交互。而人机对话的平台，基本上是靠相应的文本、列表框进行输入，然后通过按钮提交送至数据库的。所以学习网络编程就一定要了解这些输入平台相关的东西：表单（form）其基本格式如下：]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>公司简介</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+
+</channel>
+</rss>

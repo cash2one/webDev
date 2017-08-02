@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title></title>
+		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+			}
+			
+			body {
+				background: #000;
+			}
+			
+			ul {
+				width: 300px;
+				height: 300px;
+				background: #ccc;
+				position: absolute;
+				left: 50%;
+				top: 50%;
+				margin: -150px 0 0 -150px;
+			}
+			
+			ul li {
+				width: 300px;
+				height: 300px;
+				background: #399;
+				position: absolute;
+				left: 0;
+				top: 0;
+				font-size: 50px;
+				line-height: 300px;
+				color: #fff;
+				text-align: center;
+				transition: 1s all ease;
+				transform: perspective(800px) translateX(0px)rotateY(0deg);
+				border: 1px solid #000;
+			}
+			
+			li.cur {
+				z-index: 5;
+			}
+			
+			li.r1 {
+				transform: perspective(800px) translateX(200px)rotateY(-60deg);
+				opacity: 0.8;
+				z-index: 3;
+			}
+			
+			li.r2 {
+				transform: perspective(800px) translateX(300px)rotateY(-60deg);
+				opacity: 0.2;
+				z-index: 1;
+			}
+			
+			li.l1 {
+				transform: perspective(800px) translateX(-200px)rotateY(60deg);
+				opacity: 0.8;
+				z-index: 3;
+			}
+			
+			li.l2 {
+				transform: perspective(800px) translateX(-300px)rotateY(60deg);
+				opacity: 0.2;
+				z-index: 1;
+			}
+		</style>
+
+		<script>
+			window.onload = function() {
+				var aBtn = document.querySelectorAll('input');
+				var aLi = document.querySelectorAll('ul li');
+				var aClass = [];
+				for(var i = 0; i < aLi.length; i++) {
+					aClass.push(aLi[i].className);
+				}
+				//向左
+				aBtn[0].onclick = function() {
+					aClass.push(aClass.shift());
+					for(var i = 0; i < aLi.length; i++) {
+						aLi[i].className = aClass[i];
+					}
+				};
+				//向右
+				aBtn[1].onclick = function() {
+					aClass.unshift(aClass.pop());
+					for(var i = 0; i < aLi.length; i++) {
+						aLi[i].className = aClass[i];
+					}
+				};
+			};
+		</script>
+	</head>
+
+	<body>
+		<input type="button" value="<-">
+		<input type="button" value="->">
+		<ul>
+			<li>1</li>
+			<li class="l2">2</li>
+			<li class="l1">3</li>
+			<li class="cur">4</li>
+			<li class="r1">5</li>
+			<li class="r2">6</li>
+		</ul>
+	</body>
+
+</html>

@@ -1,0 +1,42 @@
+<!--tianrun.wxml-->
+<text class="head">【开启美好】—天润木窗</text>
+<text class="date">2017/06/13</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/tr/tr1.jpg" background-size="cover"></image>
+</view>
+<text class="Para">天润木业始建于2009年，公司前身黑龙江省浩森木业有限公司是集研发、生产、销售于一体的现代化高新木门及木制品生产企业，是中国家具协会会员。曾荣获“全国木门质量信誉30强企业”、“全国质量信誉AAA示范企业”、“全国木门畅销品牌”、“黑龙江省名牌”等多项殊荣。是哈尔滨“冰城老字号”企业，并通过ISO09001:2008国际质量管理体系认证。</text>
+<text class="Para">2014年，天润木业于叶晟荣品牌策划与设计机构强强联手，通过全新的品牌形象设计，传递出具有高品质，健康舒适的家居形象，打造中国的木窗品牌。天润木业之前整体形象黑色为主，因考虑到受众人群的感受，叶晟荣品牌策划与设计机构为其结合天润物、水木生的创意为天润木叶品牌更新了整体视觉色彩。颜色取至天空与海洋的颜色之间，为其缔造蓝色品牌。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/tr/tr2.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/tr/tr3.jpg" background-size="cover"></image>
+</view>
+<text class="Para">2014年为更好地体现天润木窗品味定制，彰显奢华的品牌定位，并符合其新标志的气质，叶晟荣品牌策划为其量身定制了全新的VI视觉设别系统。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/tr/tr4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/tr/tr5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/tr/tr6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/tr/tr7.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/tr/tr8.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/tr/tr9.jpg" background-size="cover"></image>
+</view>
+<text class="Txt">品牌顾问：叶晟荣</text>
+<text class="Txt">项目主创：王波</text>
+<text class="Txt">客户执行：杨忠奎</text>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+ <!-- <include src="/utils/pulish.wxml" /> -->  
+<!-- 留言板... -->

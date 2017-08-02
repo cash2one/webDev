@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>荣誉证书</title>
+<link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/</link>
+<description>关于我们 / 荣誉证书</description>
+<language>zh-cn</language>
+<generator><![CDATA[Copyright &amp;copy; 德洛尼家居, Delonne home AlRights Reserved.]]></generator>
+<webmaster>desdev@vip.qq.com</webmaster>
+<item>
+    <title><![CDATA[用Mozilla免费调试器调试JavaScript]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/53.html</link>
+    <description><![CDATA[编程错误是生活中的严酷事实，但你不应在追踪这些错误的同时捶胸顿足。更加稳定的语言，如Java和.NET系统语言提供简化问题追踪过程的开发环境。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[完全了解AJAX]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/52.html</link>
+    <description><![CDATA[尽管AJAX是个相对新生的术语，但其背后的技术却并不新颖。我们从基础开始认识AJAX，一种颠覆性的技术，其改变了Web应用程序的开发和应用方式，使得交互性页面和网站处于目前网络潮流的最前沿。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[设计与应用JavaScript对象符号JSON]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/51.html</link>
+    <description><![CDATA[XML是作为一种数据交换工具开发并推出的，但并不是所有开发者都支持这一工具。实际上一些开发者选择开发其它工具。JSON（JavaScript对象符号）就是其中之一。在本文中，我们来详细了解一下JSON的设计与应用。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[如何用JavaScript实现旋转木马]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/50.html</link>
+    <description><![CDATA[Flash动画可以让Web网站看起来很漂亮，但是由于各种原因不是每个人都会在自己的客户端浏览器上安装Flash播放器。如果你或者你的用户不幸安装了64位的Linux发行版，或者你痛恨在自己的Web页面上放动画，那么你就不得不面对没有Flash动画的情况了。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[使用mashups可能会给用户带来不好体验]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/49.html</link>
+    <description><![CDATA[最近，老板在我们公司使用了一种网络内容过滤设备。至今为止，他们对该设备进行了良好的设置。在使用我的办公用计算机浏览网页时，经过该设备进行了网页内容过滤的Web世界就大为不同了。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[如何用jQuery简化JavaScript开发]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/48.html</link>
+    <description><![CDATA[jQuery是我最近发现的一个新工具。jQuery开发团队形容jQuery是“一个快捷、简练的JavaScript库，它可以简化HTML文档检查、事件处理、动画执行、并给你的Web页面增加AJAX交互。”]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[警惕AJAX应用开发中的轻罪和死罪]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/47.html</link>
+    <description><![CDATA[AJAX bandwagon是个好去处。它能为您提供更快捷高效，动态更强的应用。但是它也有自己的缺陷。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[讨论Ajax之所以优于JSF的原因]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/46.html</link>
+    <description><![CDATA[Sun为什么会搞出一个JSF，JSF为什么会是现在这个样子，我想原因是这样的: 首先，基于组件的Web开发将来会是一个趋势。自包含的组件便于IDE的处理，可以提高开发效率。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Javascript优化原则]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/45.html</link>
+    <description><![CDATA[首先，与其他语言不同，JS的效率很大程度是取决于JS engine的效率。除了引擎实现的优劣外，引擎自己也会为一些特殊的代码模式采取一些优化的策略。显然，要获得最大效率，就必须要了解引擎的脾气，尽量迎合引擎的口味。所以对于不同的引擎，所作的优化极有可]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[网页中常用的Javascript代码]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/44.html</link>
+    <description><![CDATA[JavaScript技术可以实现交互式页面，在建立动态页面方面有着其他工具不可比拟的优点。Javascript 在网页设计中,大部分都是用来实现功能,特效的.. 本文列举了一些网页制作中常用的JavaScript技术：]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[JavaScript的9个陷阱及评点]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/43.html</link>
+    <description><![CDATA[来自Nine Javascript Gotchas, 以下是JavaScript容易犯错的九个陷阱。虽然不是什么很高深的技术问题，但注意一下，会使您的编程轻松些，即所谓make life easier. 笔者对某些陷阱会混杂一些评点。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[JavaScript基础知识总结]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/42.html</link>
+    <description><![CDATA[已经读了《JavaScript DOM 编程艺术》的前几章基础部分，现在凭着记忆，将JavaScript的基础知识总结一下。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[JavaScript：世界上误解最深的语言]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/41.html</link>
+    <description><![CDATA[JavaScript，或者叫 Mocha，或者叫 LiveScript，或者叫 JScript，又或者叫 ECMAScript，是世界上最流行的编程语言之一。事实上世界上的每一台个人电脑都安装并在频繁使用至少一个JavaScript解释器。 JavaScript的流行完全是由于他在WWW脚本语言领域中的地位决]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[JavaScript开发时的五个小提示]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/40.html</link>
+    <description><![CDATA[如果要在form中绑定事件处理程序时，应该只在 元素上绑定submit事件，而不是给提交按钮绑定click事件。March：这个方式固然很好，但是，公司开发时使用了Web Flow，一个页面就一个大form，而里面可能有若干个提交按钮，所以不得不把部分事件处理程序绑定在了]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Web2.0十大Ajax安全漏洞以及成因]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/39.html</link>
+    <description><![CDATA[Ajax中没有固有的安全漏洞，但是对该技术向量的适配显著地改变了网络应用的开发途径以及方法论。以前，DCOM和CORBA组成核心中间件层的时候，将数据和对象序列化非常困难。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[Ajax 技术入门简介]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/38.html</link>
+    <description><![CDATA[Ajax 由 HTML、Javascript 技术、DHTML 和 DOM 组成，这一杰出的方法可以将笨拙的 Web 界面转化成交互性的 Ajax 应用程序。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[使用AJAX技术的十大理由]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/37.html</link>
+    <description><![CDATA[保守来说，AJAX在现在是热得不能再热的技术。所以，有必要要看看为什么AJAX能发展成为现在的样子，为什么它能不断成长，并且在短的时间内迅速变得无处不在。所以，我用午夜谈话的风格，来给出需要AJAX技术的十大理由。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[减轻JavaScript测试和调试负担]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/36.html</link>
+    <description><![CDATA[像JSP、ASP.NET、ColdFusion这样的Web开发平台提供了大量强大服务器端开发选项。但是，它们并没有否定用JavaScript进行客户端的Web开发。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[用JavaScript的日期对象操控时间和日期值]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/35.html</link>
+    <description><![CDATA[软件开发中一个比较棘手的内容是使用时间和日期值；似乎每种语言或者每种平台都有自己的格式。在Web开发过程中，你可以使用服务器端的代码来操控日期，你也可以使用JavaScript的日期（Date）对象来实现同样的目的。在今天的专栏里，我们将仔细看看这个对象。]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+<item>
+    <title><![CDATA[JavaScript风格要素]]></title>
+    <link>http://localhost:8080/deluoni/a/webbase/javascript-ajax/2010/0407/34.html</link>
+    <description><![CDATA[关于英文的写作有一本十分著名的书，The Elements of Style（风格要素），编写程序也有一本The Elements of Programming Style（编程风格要素）。证明了在某种程度上，编写程序其实就是语文写作，清晰的风格对程序的质量有着重要的影响。草率含混的风格会隐蔽]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>荣誉证书</category>
+    <author>秩名</author>
+    <comments>德洛尼</comments>
+</item>
+
+</channel>
+</rss>

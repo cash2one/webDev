@@ -1,0 +1,4 @@
+<!-- logo.wxml -->
+<view class="nfImgLogo">
+  <image src="http://www.netjc.cn/xcx/logo.gif" background-size="cover"></image>
+</view>

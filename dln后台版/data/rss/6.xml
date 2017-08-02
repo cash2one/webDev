@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>新闻动态</title>
+<link>http://localhost:8080/deluoni/a/news/</link>
+<description>新闻动态</description>
+<language>zh-cn</language>
+<generator><![CDATA[Copyright &amp;copy; 德洛尼家居, Delonne home AlRights Reserved.]]></generator>
+<webmaster>desdev@vip.qq.com</webmaster>
+<item>
+    <title><![CDATA[我的眼界-一些关于花的照片]]></title>
+    <link>http://localhost:8080/deluoni/a/news/2010/0407/96.html</link>
+    <description><![CDATA[我的眼界-一些关于花的照片]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>新闻动态</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+<item>
+    <title><![CDATA[原创风景图片]]></title>
+    <link>http://localhost:8080/deluoni/a/news/2010/0407/95.html</link>
+    <description><![CDATA[原创风景图片]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>新闻动态</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+<item>
+    <title><![CDATA[武夷山的美景真是不错]]></title>
+    <link>http://localhost:8080/deluoni/a/news/2010/0407/94.html</link>
+    <description><![CDATA[武夷山的美景真是不错]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>新闻动态</category>
+    <author>admin</author>
+    <comments>原创</comments>
+</item>
+<item>
+    <title><![CDATA[海岛风光]]></title>
+    <link>http://localhost:8080/deluoni/a/news/2010/0407/93.html</link>
+    <description><![CDATA[海岛风光]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>新闻动态</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+<item>
+    <title><![CDATA[DedeCMS产品相关截图]]></title>
+    <link>http://localhost:8080/deluoni/a/news/2010/0407/91.html</link>
+    <description><![CDATA[DedeCMS产品相关截图]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>新闻动态</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+<item>
+    <title><![CDATA[农家小院丝瓜架下]]></title>
+    <link>http://localhost:8080/deluoni/a/news/2010/0407/90.html</link>
+    <description><![CDATA[农家小院丝瓜架下]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>新闻动态</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+<item>
+    <title><![CDATA[流连忘返的香樟大道]]></title>
+    <link>http://localhost:8080/deluoni/a/news/2010/0407/89.html</link>
+    <description><![CDATA[流连忘返的香樟大道]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>新闻动态</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+<item>
+    <title><![CDATA[美丽的风景尽收眼底]]></title>
+    <link>http://localhost:8080/deluoni/a/news/2010/0407/88.html</link>
+    <description><![CDATA[]]></description>
+    <pubDate>2010-04-07</pubDate>
+    <category>新闻动态</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+
+</channel>
+</rss>

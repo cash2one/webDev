@@ -1,0 +1,13 @@
+/*<!--大背景-->*/
+.bg_img{
+	/*min-height:240px;
+	min-width:1024px;
+	max-width:1920px;
+	max-height:450px;*/
+	width:192rem;
+	height:45rem;
+	margin:0 auto;
+	background-image:url(../imgs/new_bg.png);
+	background-position:left;
+	background-size:cover;
+}

@@ -1,0 +1,6 @@
+.venus-menu li a{
+	transition:color 2s;
+}
+.venus-menu li a:hover{
+	color:#f39800;
+}

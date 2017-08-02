@@ -1,0 +1,370 @@
+/* common.wxss */
+
+/*轮播图*/
+
+.slide-image {
+  width: 100%;
+  height: 500rpx;
+}
+
+.swiper-box {
+  display: block;
+  height: 500rpx;
+}
+
+
+
+.swiper-box .wx-swiper-dot {
+  width: 40rpx;
+  display: inline-flex;
+  height: 10rpx;
+  margin-left: 20rpx;
+  justify-content: space-between;
+}
+
+.swiper-box .wx-swiper-dot::before {
+  content: '';
+  flex-grow: 1;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 8rpx;
+}
+
+.swiper-box .wx-swiper-dot-active::before {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+/*轮播图...*/
+
+/* 联系我们 */
+
+/* address */
+
+.empty {
+  width: 100%;
+  height: 2rpx;
+  background: #000;
+}
+
+.companyAddress {
+  width: 100%;
+  height: 450rpx;
+  margin: 30rpx auto 30rpx auto;
+}
+
+.companyAddress text {
+  width: 730rpx;
+  height: 60rpx;
+  display: block;
+  line-height: 100rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  font-size: 24rpx;
+  margin: 0rpx auto 30rpx auto;
+}
+
+#map {
+  width: 730rpx;
+  height: 360rpx;
+  margin: 00rpx auto 00rpx auto;
+  border: 2rpx solid #888;
+  box-sizing: border-box;
+}
+
+/*call*/
+
+.call {
+  width: 730rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  margin: 30rpx auto 60rpx auto;
+  background: #000;
+  color: #ff0;
+  font: 24rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  text-align: center;
+}
+
+/* 联系我们... */
+
+/* 三级页公用样式 */
+
+/* head */
+
+.head {
+  width: 100%;
+  height: 120rpx;
+  line-height: 120rpx;
+  text-align: center;
+  display: block;
+  font-size: 32rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+.date {
+  width: 740rpx;
+  height: 40rpx;
+  line-height: 40rpx;
+  padding-left: 10rpx;
+  display: block;
+  font-size: 24rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+/* head... */
+
+/* 诗 */
+
+.Poem {
+  width: 730rpx;
+  margin: 10rpx auto;
+}
+
+.Poem text {
+  width: 730rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  text-align: center;
+  display: block;
+  color: #999;
+  font-size: 28rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+/* 诗...*/
+
+/* 简介 */
+
+.Wrap {
+  width: 730rpx;
+  margin: 10rpx auto;
+  display: flex;
+}
+
+.Wrap image {
+  width: 200rpx;
+  height: 200rpx;
+  margin: 0;
+}
+
+.Wrap .WrapP {
+  width: 500rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  margin-left: 30rpx;
+}
+
+.WrapP text {
+  width: 500rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  display: block;
+  font-size: 28rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  text-indent: 2em;
+}
+
+/* 简介... */
+
+/* 图片 */
+
+.Img {
+  width: 100%;
+  height: 468rpx;
+  display: block;
+  margin: 20rpx auto;
+  border: 2rpx dashed #efefef;
+  box-sizing: border-box;
+}
+
+.Img image {
+  width: 100%;
+  height: 468rpx;
+  display: block;
+}
+
+/* 图片... */
+
+/* 段落 */
+
+.Para {
+  width: 730rpx;
+  line-height: 48rpx;
+  padding: 0 10rpx;
+  display: block;
+  font-size: 28rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+  text-indent: 2em;
+}
+
+.Txt {
+  width: 740rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  padding-left: 10rpx;
+  display: block;
+  font-size: 28rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+/* 段落... */
+
+/* logo */
+
+.nfImgLogo {
+  width: 100%;
+  height: 750rpx;
+  display: block;
+  margin: 20rpx 0;
+}
+
+.nfImgLogo image {
+  width: 100%;
+  height: 750rpx;
+  display: block;
+}
+
+/* logo... */
+
+/*留言板*/
+
+/*输入*/
+
+.pulish {
+  width: 730rpx;
+  margin: 0 auto;
+}
+
+.pulishIpt {
+  width: 100%;
+  height: 60rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pulishIpt input {
+  width: 440rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  border: 1px solid #e2e2e3;
+  padding-left: 20rpx;
+}
+
+.pulishHolder {
+  color: #757575;
+  margin-left: 10rpx;
+  font-size: 24rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+.pulishIptImg {
+  width: 80rpx;
+  height: 60rpx;
+  border: 1px solid #e2e2e3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pulishIptImg image {
+  width: 60rpx;
+  height: 44rpx;
+  opacity: 0.5;
+}
+
+.pulishImgDel {
+  position: absolute;
+  z-index: 999;
+  opacity: 0.8;
+}
+
+.pulishIpt button {
+  width: 100rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  text-align: center;
+  margin: 0 0 0 20rpx;
+  padding: 0;
+  border: 1px solid #e2e2e3;
+  background: transparent;
+  font-size: 24rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+.pulishIpt button::after {
+  border: none;
+}
+
+/*输入...*/
+
+/*输出*/
+
+.pulishOut {
+  width: 730rpx;
+  margin: 0 auto;
+}
+
+.pulishOutNum {
+  width: 730rpx;
+  height: 80rpx;
+  display: flex;
+  align-items: center;
+}
+
+.pulishOutNum text {
+  height: 34rpx;
+  line-height: 34rpx;
+  display: block;
+  border-left: 6rpx solid #333;
+  padding-left: 10rpx;
+  font-size: 30rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+.pulishOutMess {
+  width: 730rpx;
+  height: auto;
+  overflow: hidden;
+}
+
+.pulishMessNone {
+  width: 520rpx;
+  height: 270rpx;
+  margin: auto;
+  display: block;
+}
+
+/* 内容 */
+
+.pulishOutList {
+  width: 710rpx;
+  margin: 0 10rpx;
+  border-top: 6rpx dashed #f6f6f6;
+}
+
+.pulishListContent {
+  width: 100%;
+}
+
+.pulishListContent image {
+  width: 300rpx;
+  max-height: 300rpx;
+  margin-top: 10rpx;
+}
+
+.pulishListContent textarea {
+  width: 100%;
+  height: auto;
+  line-height: 40rpx;
+  color: #999;
+  overflow: hidden;
+  font-size: 24rpx;
+  font-family: Arial, 微软雅黑, "Microsoft Yahei";
+}
+
+/* 内容... */
+
+/*输出...*/
+
+/* 留言板... */
+
+/* 三级页公用样式... */

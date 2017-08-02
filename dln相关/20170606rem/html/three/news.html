@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>新闻动态</title>
+	<link type="text/css" href="../css/font-awesome.css" rel="stylesheet" />
+	<link type="text/css" href="../css/style.css" rel="stylesheet" />
+	<link type="text/css" href="../css/common_pc.css" rel="stylesheet" />
+	<script type="text/javascript" src="../js/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/script.js"></script>
+</head>
+<body>
+<div class="content content1">
+	<a href="../index.html">
+		<img src="../imgs/logo.png" alt="logo" />
+	</a>
+	<ul class="venus-menu">
+		<li class="active"><a href="link.html">关于我们</a></li>
+		<li><a href="../html/news.html" style="color:#f39800;">新闻动态 </a></li>
+		<li><a href="javascript:;">产品系列</a></li>
+		<li><a href="javascript:;">家装案例</a></li>
+		<li><a href="javascript:;">招商加盟</a></li>
+		<li><a href="javascript:;">实体店</a></li>
+		<li><a href="javascript:;">联系我们</a></li>
+		<li class="search">
+			<form method="get" class="s_form">
+				<input type="text" name="search" class="sear" placeholder="请输入商品名称" />
+			</form>
+			<div></div>
+		</li>
+	</ul>
+</div>
+
+<!--top-header end--><!--banner start-->
+<div class="banner banner-blog">
+    <img src="../imgs/banner.png" class="banner-text">
+</div>
+
+<!--banner end-->
+<!-- 正文开始start -->
+    <div class="content">
+        <!--子导航条start-->
+        <div class="sub-nav">
+            <div class="menu-%e9%a1%b6%e5%af%bc-container">
+                <ul id="primary-menu" class="clearfix"><li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-14"><a href="" track-key="7425cac2b769a0d8be2c99cf543e5a11" et-attached="1">企业动态</a></li>
+                    <li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="           " track-key="087de75f503cf1d39edd78f493958591" et-attached="1">促销信息</a></li>
+                </ul>
+            </div>        
+        </div>
+        <!--子导航条end-->
+	    <div class="tab-content">
+	        <div class="page clearfix" style="display: block;">
+	           <!--博客的文章start-->
+	            <div class="article">
+	                <div class="article-content">
+                        <div class="section clearfix">
+                            <div class="title-wrap">
+                                <a href="" onclick="_opq.push([&#39;trackEvent&#39;,&#39;  onepluspr_L1&#39;,&#39;列表页标题&#39;])" rel="bookmark" class="title1" track-key=" 8793061a3f45cb6a4fea40fbe9bd2709" et-attached="1">德洛尼经销商大会暨品牌升级发布公圆满结束</a>   
+                                <span class="tag"></span>
+                            </div>
+                            <div class="author-wrap">
+                                <span class="time-wrap">
+                                   <span class="time">
+                                        <span class="year">2017.04.21</span> 12:00
+                                    </span>
+                                   <span class="author">By:  产品经理 方北</span>
+                                </span>
+                                <ul class="icon-wrap clearfix">
+                                    <li class="like">
+                                        <a href="javascript:void(0);" onclick="postLike(this)" data-action="ding" data-id="3662" class="    favorite" track-key="                   d468529ff47b0c671be81a7ebe1fd7cd" et-attached="1"><i class= "i-icon i-like"></i></a>
+                                        <span class="ding_count">
+                                            3                </span>
+                                    </li>
+        	                    </ul>
+                            </div>
+    	    	            <a href="" onclick="_opq.push([&#39;trackEvent&#39;,&#39;onepluspr_L2&#39;,&#39;列表页大图&#39;])" class="img-wrap" track-key="dc1e2807001c333e9d590797cfd0187f" et-attached="1">
+	                           	<img src="../imgs/xq1.png">
+	                        </a>
+                            <div class="summary">
+	                           <p>一张壁纸，不仅要表现独特、有趣、好看，还要承载功能。要保证与图标、搜索栏、时间、状态栏足够匹配等，而且还需带有 OnePlus 的元素，以及希望用户看到后 “WOW” 的惊呼。要同时做到这些很难，但是 Hampus Olsson 做到了。</p>
+	                       	</div>
+	                   </div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+    </div>
+<!--文章内容end-->
+
+<script>
+function postLike(obj) {
+	if ($(obj).hasClass('done')) {
+		return false;
+	} else {
+		$(obj).addClass('done');
+		var id = $(obj).data("id"),
+		action = $(obj).data('action'),
+		rateHolder = $(obj).next('.ding_count');
+		count = parseInt($(rateHolder).html());
+		count++;
+		$(rateHolder).html(count);
+		var ajax_data = {
+			action: "oneplus_like",
+			um_id: id,
+			um_action: action
+		};
+		$.post("/wp-admin/admin-ajax.php", ajax_data,
+			function(data) {
+			}
+		);
+		return false;
+	}
+};
+</script>
+	<!--footer-->
+	<div>
+		<iframe src="../html/footer.html" width="100%" height="360px" marginheight="0" marginwidth="0" hspace="0" vspace="0" scrolling="no" frameborder="0"  class="foot"></iframe>
+	</div>
+	<!--footer...-->
+</body>
+</html>

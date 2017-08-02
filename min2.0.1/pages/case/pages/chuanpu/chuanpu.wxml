@@ -1,0 +1,53 @@
+<!--chuanpu.wxml-->
+<text class="head">【惹火创作】川普—VI设计</text>
+<text class="date">2017/06/13</text>
+<view class="Poem">
+  <text>所谓巴蜀之地</text>
+  <text>热情似火 万物众生</text>
+  <text>一如“川普”</text>
+  <text>用惊艳点缀角色</text>
+  <text>漫漫历史长河中</text>
+  <text>无数人曾面付“铠甲”</text>
+  <text>演绎最鼎盛的精彩</text>
+  <text>一如家居</text>
+  <text>用其妖娆的姿态</text>
+  <text>演绎最新鲜的生活</text>
+  <text>在无命题的将来</text>
+  <text>将赋予“家”最奔放的可能</text>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/cp/cp1.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/cp/cp2.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/cp/cp3.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/cp/cp4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/cp/cp5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/cp/cp6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/cp/cp7.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/cp/cp8.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/cp/cp9.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/cp/cp10.jpg" background-size="cover"></image>
+</view>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+<!-- <include src="/utils/pulish.wxml" /> -->
+<!-- 留言板... -->

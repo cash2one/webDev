@@ -1,0 +1,58 @@
+/*头部*/
+	.head{
+		width:100%;
+		height:82px;
+		background:#FFFFFF;
+		/*background:#ccc;*/
+		position:relative;
+	}
+	.head .h_img1{
+		margin-left:5%;
+		width:231px;
+		height:100%;
+		/*background:yellow;*/
+		float:left;
+	}
+	.h_img1 img{
+		width:231px;
+		height:40px;
+		position:absolute;;
+		top:50%;
+		margin-top:-20px;
+		/*background:blue;*/
+	}
+
+	.head .h_list{
+		width:600px;
+		height:100%;
+		/*background:green;*/
+		float:right;
+		margin-right:11%;
+	}
+	.head ul{
+		width:600px;
+		height:100%;
+		line-height:400%;
+		margin-right:10%;
+		/*background:gold;*/
+	}
+	
+	.head ul li{
+		float:left;
+		width:auto;
+		height:20px;
+		margin:10px;
+		font-size:14px;
+		font-family: "微软雅黑";
+		/*background:#ccc;*/
+	}
+	.head .h_img2{
+		position:absolute;
+		z-index:222;
+		width:18px;
+		height:18px;
+		top:50%;
+		margin-top:-9px;
+		right:5%;
+		background:url("../imgs/seach.png") no-repeat; 
+	}

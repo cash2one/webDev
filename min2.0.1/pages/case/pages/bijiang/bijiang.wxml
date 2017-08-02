@@ -1,0 +1,44 @@
+<!--bijiang.wxml-->
+<text class="head">【必将满意】碧江家居——VI重塑</text>
+<text class="date">2017/06/13</text>
+<view class="Poem">
+  <text>家，一个被温暖和柔软包裹的字眼。</text>
+  <text>先人仓颉在创造这个字时是用心的。</text>
+  <text>坚固的房顶下窝着繁荣昌盛的家族。</text>
+  <text>如今，碧江家居携手叶晟荣团队进行品牌重塑</text>
+  <text>期盼为每一个有梦的人提供最好的办公/生活家居环境</text>
+</view>
+<text class="Para">上海碧江家具有限公司，立足上海，面向全国，作为领先的现代办公环境整体解决方案的规划者与实施者，贯彻前瞻性设计与卓越品质，以创造个性化高效办公、提升工作幸福感为已任，随时为客户提供国际潮流与本地实际相结合的办公场所解决方案以及全系列的产品和服务。如今，碧江家居正式进攻生活家居市场，以此来满足不同场合的需求，并为客户提供完整的项目管理服务。</text>
+<text class="Para" style="text-align:center;">VI全面解析</text>
+<text class="Para">根据客户的需求，我们重新定位了品牌LOGO。红色的两个英文字母“I”代表你和我；jion在这里被译为：连接；屋顶与字母J组合成为一个向上的箭头，寓意碧江家居快速反应，积极创新，力争上游的企业愿景。</text>
+<text class="Para">重新塑造后，完整的表达了碧江家居平台连接你我，共同搭建美丽的家的愿景</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bj/bj1.jpg" background-size="cover"></image>
+</view>
+<text class="Para">色调部分我们选择了湛蓝和橘红，既体现了办公家居的稳重优雅，又表达了生活家居的轻松舒适。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bj/bj2.jpg" background-size="cover"></image>
+</view>
+<text class="Para">企业文化板块我们侧重直观，大气做了如下设计。</text>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bj/bj3.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bj/bj4.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bj/bj5.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bj/bj6.jpg" background-size="cover"></image>
+</view>
+<view class="Img">
+  <image src="http://www.netjc.cn/xcx/case/bj/bj7.jpg" background-size="cover"></image>
+</view>
+<text class="Para" style="text-align:center;">碧江家居 必将满意</text>
+<!-- logo -->
+<include src="/utils/logo.wxml" />
+<!-- logo... -->
+<!-- 留言板 -->
+<!-- <include src="/utils/pulish.wxml" /> -->
+<!-- 留言板... -->
