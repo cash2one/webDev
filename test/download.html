@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script>
+	// var isSupportDownload = 'download' in document.createElement('a');
+	// alert(isSupportDownload)
+	function saveFileForIE(canvas, fileName) {
+    var blob = canvas.msToBlob();
+    navigator.msSaveBlob(blob, fileName);
+}
+// saveFileForIE(canvas,'1.zip')
+	</script>
+</head>
+<body>
+	<a href="1.zip" download onclick="saveFileForIE(canvas,'1.zip')">点击下载</a>
+</body>
+</html>
